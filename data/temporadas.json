@@ -1,0 +1,202 @@
+[
+    {
+      "temporada": "2024/2025",
+      "competicoes": [
+        {
+          "nome": "Premier League",
+          "jogos": [
+            {
+              "data": "2024-08-10",
+              "adversario": "Liverpool",
+              "casa": true,
+              "placar": "0-2",
+              "golsTime": [],
+              "assistenciasTime": [],
+              "golsAdversario": ["Salah", "Jota"],
+              "craqueJogo": "Jota"
+            },
+            {
+              "data": "2024-08-17",
+              "adversario": "Manchester City",
+              "casa": false,
+              "placar": "3-1",
+              "golsTime": ["Endrick", "Alexandre Tavares", "Alexandre Tavares"],
+              "assistenciasTime": ["Endrick", "Kevin", "Liam Bates"],
+              "golsAdversario": ["Halaand"],
+              "craqueJogo": "Endrick"
+            }
+          ],
+          "estatisticas": [
+            {
+              "nome": "Endrick",
+              "gols": 1,
+              "assistencias": 1,
+              "jogos": 2,
+              "titular": 2,
+              "craqueDoJogo": 1
+            },
+            {
+              "nome": "Alexandre Tavares",
+              "gols": 2,
+              "assistencias": 0,
+              "jogos": 2,
+              "titular": 1,
+              "craqueDoJogo": 0
+            },
+            {
+              "nome": "Kevin",
+              "gols": 0,
+              "assistencias": 1,
+              "jogos": 2,
+              "titular": 2,
+              "craqueDoJogo": 0
+            },
+            {
+              "nome": "Liam Bates",
+              "gols": 0,
+              "assistencias": 1,
+              "jogos": 2,
+              "titular": 2,
+              "craqueDoJogo": 0
+            }
+          ]
+        },
+        {
+          "nome": "Carabao Cup",
+          "jogos": [
+            {
+              "data": "2024-08-24",
+              "adversario": "Wolverhampton",
+              "casa": true,
+              "placar": "4-2",
+              "golsTime": ["Pape Diarra", "Pape Diarra", "Pape Diarra", "Gilles Sanchez"],
+              "assistenciasTime": ["Kevin", "Kevin", "Gilles Sanchez"],
+              "golsAdversario": [],
+              "craqueJogo": "Pape Diarra"
+            }
+          ],
+          "estatisticas": [
+            {
+              "nome": "Pape Diarra",
+              "gols": 3,
+              "assistencias": 0,
+              "jogos": 1,
+              "titular": 1,
+              "craqueDoJogo": 1
+            },
+            {
+              "nome": "Gilles Sanchez",
+              "gols": 1,
+              "assistencias": 1,
+              "jogos": 1,
+              "titular": 1,
+              "craqueDoJogo": 0
+            },
+            {
+              "nome": "Kevin",
+              "gols": 0,
+              "assistencias": 2,
+              "jogos": 1,
+              "titular": 1,
+              "craqueDoJogo": 0
+            }
+          ]
+        }
+      ],
+      "elenco": [
+        {
+          "nome": "Endrick",
+          "posicao": "Atacante",
+          "numero": 25,
+          "foto": "/images/endrick.jpg",
+          "estatisticas": {
+            "gols": 1,
+            "assistencias": 1,
+            "jogos": 3,
+            "titular": 2,
+            "cartoes": 0,
+            "craqueDoJogo": "1"
+          }
+        },
+        {
+          "nome": "Alexandre Tavares",
+          "posicao": "Atacante",
+          "numero": 11,
+          "foto": "/images/alexandre-tavares.jpg",
+          "estatisticas": {
+            "gols": 2,
+            "assistencias": 0,
+            "jogos": 3,
+            "titular": 1,
+            "cartoes": 0,
+            "craqueDoJogo": "0"
+          }
+        },
+        {
+          "nome": "Kevin",
+          "posicao": "Ponta Esquerda",
+          "numero": 999,
+          "foto": "/images/kevin.jpg",
+          "estatisticas": {
+            "gols": 0,
+            "assistencias": 3,
+            "jogos": 3,
+            "titular": 3,
+            "cartoes": 0,
+            "craqueDoJogo": "0"
+          }
+        },
+        {
+          "nome": "Liam Bates",
+          "posicao": "Meia Central",
+          "numero": 999,
+          "foto": "/images/liam-bates.jpg",
+          "estatisticas": {
+            "gols": 0,
+            "assistencias": 1,
+            "jogos": 3,
+            "titular": 3,
+            "cartoes": 0,
+            "craqueDoJogo": "0"
+          }
+        },
+        {
+          "nome": "Gilles Sanchez",
+          "posicao": "Meia Central",
+          "numero": 999,
+          "foto": "/images/gilles-sanchez.jpg",
+          "estatisticas": {
+            "gols": 1,
+            "assistencias": 1,
+            "jogos": 3,
+            "titular": 3,
+            "cartoes": 0,
+            "craqueDoJogo": "0"
+          }
+        },
+        {
+          "nome": "Pape Diarra",
+          "posicao": "Atacante",
+          "numero": 999,
+          "foto": "/images/pape-diarra.jpg",
+          "estatisticas": {
+            "gols": 3,
+            "assistencias": 0,
+            "jogos": 2,
+            "titular": 1,
+            "cartoes": 0,
+            "craqueDoJogo": "1"
+          }
+        }
+      ],
+      "noticias": [
+        {
+          "titulo": "Estreia com vitória!",
+          "conteudo": "Time estreia na Premier League com vitória sobre o City.",
+          "data": "2024-08-17",
+          "foto": ""
+        }
+      ]
+    }
+  ]
+  
