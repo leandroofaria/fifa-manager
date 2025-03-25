@@ -20,9 +20,18 @@ const data = [
 export default function Home() {
   return (
     <main>
-        <div className="mt-3">
-          <AnimatedTestimonials testimonials={data} autoplay />
-        </div>
+       <Container>
+          <div className="mt-3">
+            <AnimatedTestimonials testimonials={data} autoplay />
+          </div>
+
+          {/* Ultimas Noticias */}
+          <div>
+            <h1>Últimas Notícias</h1>
+
+            
+          </div>
+        </Container>
     </main>
   );
 }

@@ -4,7 +4,9 @@
 
   --color-darkgreen: #1A5319;
 
+  /* Principal */
   --color-mediumgreen: #3e644e;
+
   --color-mediumgreen2: #387F39;
 
   --color-lightgreen: #1F7D53;
@@ -18,6 +20,6 @@
 
 
 body {
-  background-color: white;
+  background-color: whitesmoke;
   color: black;
 }

@@ -20,6 +20,13 @@ export const AnimatedTestimonials = ({
   autoplay?: boolean;
 }) => {
   const [active, setActive] = useState(0);
+  const [rotations, setRotations] = useState<number[]>([]);
+
+  // Gera valores aleatórios fixos para cada imagem (somente no cliente)
+  useEffect(() => {
+    const generated = testimonials.map(() => Math.floor(Math.random() * 21) - 10);
+    setRotations(generated);
+  }, [testimonials]);
 
   const handleNext = () => {
     setActive((prev) => (prev + 1) % testimonials.length);
@@ -38,11 +45,10 @@ export const AnimatedTestimonials = ({
     }
   }, [autoplay]);
 
-  const randomRotateY = () => Math.floor(Math.random() * 21) - 10;
-
   return (
     <div className="mx-auto max-w-sm px-4 py-20 font-sans antialiased md:max-w-4xl md:px-8 lg:px-12">
       <div className="relative grid grid-cols-1 gap-20 md:grid-cols-2">
+        {/* Imagem */}
         <div>
           <div className="relative w-full aspect-[16/9]">
             <AnimatePresence>
@@ -53,13 +59,13 @@ export const AnimatedTestimonials = ({
                     opacity: 0,
                     scale: 0.9,
                     z: -100,
-                    rotate: randomRotateY(),
+                    rotate: rotations[index] || 0,
                   }}
                   animate={{
                     opacity: isActive(index) ? 1 : 0.7,
                     scale: isActive(index) ? 1 : 0.95,
                     z: isActive(index) ? 0 : -100,
-                    rotate: isActive(index) ? 0 : randomRotateY(),
+                    rotate: isActive(index) ? 0 : rotations[index] || 0,
                     zIndex: isActive(index)
                       ? 40
                       : testimonials.length + 2 - index,
@@ -69,7 +75,7 @@ export const AnimatedTestimonials = ({
                     opacity: 0,
                     scale: 0.9,
                     z: 100,
-                    rotate: randomRotateY(),
+                    rotate: rotations[index] || 0,
                   }}
                   transition={{
                     duration: 0.4,
@@ -89,6 +95,8 @@ export const AnimatedTestimonials = ({
             </AnimatePresence>
           </div>
         </div>
+
+        {/* Texto e botões */}
         <div className="flex flex-col justify-between py-4">
           <motion.div
             key={active}
@@ -97,9 +105,7 @@ export const AnimatedTestimonials = ({
             exit={{ y: -20, opacity: 0 }}
             transition={{ duration: 0.2, ease: "easeInOut" }}
           >
-            <h3 className="text-2xl text-black">
-              {testimonials[active].name}
-            </h3>
+            <h3 className="text-2xl text-black">{testimonials[active].name}</h3>
             <p className="text-sm">{testimonials[active].designation}</p>
             <motion.p className="mt-7 text-lg">
               {testimonials[active].quote.split(" ").map((word, index) => (
@@ -119,6 +125,7 @@ export const AnimatedTestimonials = ({
               ))}
             </motion.p>
           </motion.div>
+
           <div className="flex gap-4 mt-4 pt-12 md:pt-0">
             <button
               onClick={handlePrev}

@@ -6,11 +6,11 @@ export function Header() {
       <div className="max-w-screen-xl mx-auto h-full flex items-center justify-between font-black">
         {/* Logo à esquerda */}
         <div>
-          <Link href="/" className="text-xl font-bold ml-5">P</Link>
+          <Link href="/" className="text-xl font-bold">P</Link>
         </div>
 
         {/* Links à direita */}
-        <nav className="flex gap-6 mr-14 font-semibold text-base">
+        <nav className="flex gap-6 font-semibold text-base">
           <Link
             href="/temporadas"
             className="hover:scale-115 transition-all duration-300"
