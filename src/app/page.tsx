@@ -2,6 +2,7 @@ import { Container } from "@/components/container";
 import { AnimatedTestimonials } from "@/utils/aceternity";
 import { noticias } from "../../data/25-26/noticias";
 import { NoticiasCarousel } from "@/components/carrosel de noticias/noticias-carousel";
+import { NoticiasAnimated } from "@/components/noticias iniciais/noticias-animated";
 
 export default function Home() {
   const testimonials = [
@@ -23,7 +24,7 @@ export default function Home() {
     <main>
       <Container>
         <div className="mt-3">
-          <AnimatedTestimonials testimonials={testimonials} autoplay />
+          <NoticiasAnimated noticias={noticias} autoplay />
         </div>
 
         {/* Últimas Notícias */}

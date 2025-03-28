@@ -13,6 +13,11 @@ interface Props {
 }
 
 export function NoticiasCarousel({ noticias }: Props) {
+  // Ordena do mais recente pro mais antigo
+  const noticiasOrdenadas = [...noticias].sort((a, b) => {
+    return new Date(b.data).getTime() - new Date(a.data).getTime();
+  });
+
   return (
     <div className="w-full h-full py-20">
       <h2 className="max-w-7xl pl-4 mx-auto text-xl md:text-5xl font-bold text-neutral-800 dark:text-neutral-200 font-sans">
@@ -20,7 +25,7 @@ export function NoticiasCarousel({ noticias }: Props) {
       </h2>
 
       <Carousel
-        items={noticias.map((noticia, index) => (
+        items={noticiasOrdenadas.map((noticia, index) => (
           <Card
             key={noticia.titulo + index}
             index={index}
