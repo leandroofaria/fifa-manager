@@ -1,0 +1,115 @@
+[
+    {
+      "nome": "Endrick",
+      "posicao": "Atacante",
+      "numero": 10,
+      "idade": 18,
+      "overall": 85,
+      "foto": "",
+      "estatisticas": {
+        "gols": 3,
+        "assistencias": 1,
+        "jogos": 4,
+        "craqueDoJogo": 0,
+        "defesas": 0,
+        "golsSofridos": 0
+      }
+    },
+    {
+      "nome": "Estevao",
+      "posicao": "Ponta Direita",
+      "numero": 121,
+      "idade": null,
+      "overall": null,
+      "foto": "",
+      "estatisticas": {
+        "gols": 1,
+        "assistencias": 1,
+        "jogos": 4,
+        "craqueDoJogo": 1,
+        "defesas": 0,
+        "golsSofridos": 0
+      }
+    },
+    {
+      "nome": "Estevao",
+      "posicao": "Ponta Direita",
+      "numero": null,
+      "idade": null,
+      "overall": null,
+      "foto": "",
+      "estatisticas": {
+        "gols": 1,
+        "assistencias": 1,
+        "jogos": 4,
+        "craqueDoJogo": 0,
+        "defesas": 0,
+        "golsSofridos": 0
+      }
+    },
+    {
+      "nome": "Kevin",
+      "posicao": "Ponta Esquerda",
+      "numero": null,
+      "idade": null,
+      "overall": null,
+      "foto": "",
+      "estatisticas": {
+        "gols": 1,
+        "assistencias": 1,
+        "jogos": 4,
+        "craqueDoJogo": 0,
+        "defesas": 0,
+        "golsSofridos": 0
+      }
+    },
+    {
+      "nome": "Danilo",
+      "posicao": "Meio Campo",
+      "numero": null,
+      "idade": null,
+      "overall": null,
+      "foto": "",
+      "estatisticas": {
+        "gols": 0,
+        "assistencias": 1,
+        "jogos": 4,
+        "craqueDoJogo": 0,
+        "defesas": 0,
+        "golsSofridos": 0
+      }
+    },
+    {
+      "nome": "Evan Maloney",
+      "posicao": "Meio Campo",
+      "numero": null,
+      "idade": null,
+      "overall": null,
+      "foto": "",
+      "estatisticas": {
+        "gols": 0,
+        "assistencias": 1,
+        "jogos": 4,
+        "craqueDoJogo": 0,
+        "defesas": 0,
+        "golsSofridos": 0
+      }
+    },
+    {
+      "nome": "Diego Ramos",
+      "posicao": "Goleiro",
+      "numero": 1,
+      "idade": 25,
+      "overall": 76,
+      "foto": "",
+      "estatisticas": {
+        "gols": 0,
+        "assistencias": 0,
+        "jogos": 4,
+        "craqueDoJogo": 1,
+        "defesas": 0,
+        "golsSofridos": 0
+      }
+    }
+  ]
+  

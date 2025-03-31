@@ -1,0 +1,64 @@
+{
+  "nome": "Carabao Cup",
+  "jogos": [
+    {
+      "data": "2024-08-27",
+      "adversario": "Salford City",
+      "casa": false,
+      "placar": "5-1",
+      "golsTime": ["Endrick (3x)", "Estevão", "Kevin"],
+      "assistenciasTime": ["Kevin", "Estevão", "Endrick", "Danilo", "Evan Maloney"],
+      "golsAdversario": ["Richard"],
+      "craqueJogo": "Endrick",
+      "descricao": ""
+    },
+    {
+      "data": "",
+      "adversario": "",
+      "casa": true,
+      "placar": "5-1",
+      "golsTime": ["Endrick (3x)", "Estevão", "Danilo"],
+      "assistenciasTime": ["Kevin (3x)", "Estevão", "Endrick"],
+      "golsAdversario": ["Lucas Zynk"],
+      "craqueJogo": "Kevin",
+      "descricao": ""
+    }
+  ],
+  "estatisticas": [
+    {
+      "nome": "Endrick",
+      "gols": 3,
+      "assistencias": 1,
+      "jogos": 1,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Estevão",
+      "gols": 1,
+      "assistencias": 1,
+      "jogos": 1,
+      "craqueDoJogo": 1
+    },
+    {
+      "nome": "Kevin",
+      "gols": 1,
+      "assistencias": 1,
+      "jogos": 1,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Danilo",
+      "gols": 0,
+      "assistencias": 1,
+      "jogos": 1,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Evan Maloney",
+      "gols": 0,
+      "assistencias": 1,
+      "jogos": 1,
+      "craqueDoJogo": 0
+    }
+  ]
+}

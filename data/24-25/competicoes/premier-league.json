@@ -1,0 +1,82 @@
+{
+  "nome": "Premier League",
+  "jogos": [
+    {
+      "data": "2024-08-17",
+      "adversario": "Liverpool",
+      "casa": true,
+      "placar": "0-4",
+      "golsTime": [],
+      "assistenciasTime": [],
+      "golsAdversario": ["Diogo Jota", "Diogo Jota", "Salah", "Declan Rodgers (GC)"],
+      "craqueJogo": "Jota",
+      "descricao": "Na estreia da temporada, o Palmeiras foi superado pelo Liverpool por 4 a 0 jogando em casa. A equipe visitante dominou as ações desde o início, com Diogo Jota sendo o grande destaque da partida — marcou dois gols e participou diretamente de outros dois lances decisivos. Salah também deixou o dele, e um gol contra de Declan Rodgers completou o placar. O Verdão teve uma atuação abaixo do esperado e saiu de campo sob críticas da torcida."
+    },
+    {
+      "data": "2024-08-24",
+      "adversario": "Manchester City",
+      "casa": false,
+      "placar": "0-3",
+      "golsTime": [],
+      "assistenciasTime": [],
+      "golsAdversario": ["Haaland", "Haaland", "Phoden"],
+      "craqueJogo": "Jota",
+      "descricao": "O Palmeiras foi derrotado por 3 a 0 pelo Manchester City fora de casa, em mais uma rodada complicada no início da temporada. Haaland brilhou com dois gols e foi o principal nome do confronto, ao lado de Phoden, que fechou o placar. Apesar do resultado elástico, o goleiro Ramos teve atuação segura e evitou uma goleada ainda maior com defesas importantes ao longo da partida. Endrick teve uma rara chance clara de gol, mas desperdiçou frente a frente com o goleiro adversário, frustrando a tentativa de reação do time."
+    },
+    {
+      "data": "2024-08-31",
+      "adversario": "Fulham",
+      "casa": false,
+      "placar": "0-0",
+      "golsTime": [],
+      "assistenciasTime": [],
+      "golsAdversario": [],
+      "craqueJogo": "Ramos",
+      "descricao": "Em uma partida marcada por poucas emoções, Fulham e Palmeiras ficaram no 0 a 0. O grande nome do jogo foi o goleiro Ramos, que garantiu o empate com defesas importantes e seguras ao longo dos 90 minutos. Apesar das expectativas, o ataque do Palmeiras não conseguiu se impor, e Endrick teve uma atuação abaixo do esperado, sendo substituído ainda no segundo tempo. O resultado gerou reações divididas entre os torcedores."
+    },
+    {
+      "data": "2024-09-12",
+      "adversario": "Brighton",
+      "casa": true,
+      "placar": "4-2",
+      "golsTime": ["Endrick (2x)", "Luis Guilherme", "Kevin"],
+      "assistenciasTime": ["Luis Guilherme (2x)", "Kevin", "Estevão"],
+      "golsAdversario": ["João Pedro (2x)"],
+      "craqueJogo": "Luis Guilherme",
+      "descricao": "Em grande atuação no Allianz, o Palmeiras venceu o Brighton por 4 a 2. Endrick marcou dois gols, incluindo um voleio espetacular, enquanto Luis Guilherme brilhou como meia-atacante, com um gol e duas assistências. Kevin também deixou o dele e participou bem na criação. Ramos foi seguro no gol, mesmo com os dois tentos de João Pedro, e garantiu a vitória do Verdão."
+    },
+    {
+      "data": "2024-09-",
+      "adversario": "Southamptom",
+      "casa": true,
+      "placar": "1-1",
+      "golsTime": ["Endrick"],
+      "assistenciasTime": ["Estevão"],
+      "golsAdversario": ["Onuachu"],
+      "craqueJogo": "Onuachu",
+      "descricao": ""
+    },
+    {
+      "data": "2024-09-",
+      "adversario": "Aston Villa",
+      "casa": true,
+      "placar": "2-2",
+      "golsTime": ["Estevão","Endrick"],
+      "assistenciasTime": ["Kevin", "Estevão"],
+      "golsAdversario": ["Watkins", "De Angelis (GC)"],
+      "craqueJogo": "Ramos",
+      "descricao": ""
+    }
+  ],
+  "estatisticas": [
+    {
+      "nome": "Ramos",
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": 3,
+      "craqueDoJogo": 1,
+      "defesas": 0,
+      "golsSofridos": 7
+    }
+  ]
+}
