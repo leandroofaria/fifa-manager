@@ -1,150 +1,338 @@
 [
-    {
-      "titulo": "Melhor em Campo",
-      "conteudo": "Depois de uma ótima atuação, Jota é o Melhor em Campo na partida contra o Palmeiras.",
-      "autor": "The Athletic",
-      "data": "2024-08-17",
-      "foto": "/fotos/competicoes/premier-league.jpeg"
-    },
-    {
-      "titulo": "Começo ruim?",
-      "conteudo": "Após retorno de Endrick, a torcida do Palmeiras ficou se perguntando de quem é a culpa pelo resultado da última partida.",
-      "autor": "The Athletic",
-      "data": "2024-08-17",
-      "foto": "/fotos/24-25/endrick/frustrado.jpeg"
-    },
-    {
-      "titulo": "Palmeiras 0x4 Liverpool",
-      "conteudo": "Jota fez uma ótima atuação por Liverpool, marcando um doblete que impulsionou seu time a uma vitória por 4 a 0 sobre o Palmerias.",
-      "autor": "The Athletic",
-      "data": "2024-08-18",
-      "foto": "/fotos/times/liverpool.jpg"
-    },
-    {
-      "titulo": "Começo de temporada do Palmeiras",
-      "conteudo": "'Não foi o começo que a gente queria, mas a temporada está só começando.', avalia Ocean após a estreia infeliz na liga.",
-      "autor": "The Athletic",
-      "data": "2024-08-19",
-      "foto": "/fotos/competicoes/premier-league.jpeg"
-    },
-    {
-      "titulo": "Kristensen é uma decepção?",
-      "conteudo": "Frank Ocean se preocupa com má fase de Kristensen, que registrou mais um desempenho frustante como lateral direito.",
-      "autor": "The Athletic",
-      "data": "2024-08-20",
-      "foto": "/fotos/24-25/kristensen/frustrado.jpg"
-    },
-    {
-      "titulo": "Melhor em Campo",
-      "conteudo": "Depois de uma ótima atuação, Haaland é o melhor em campo em partida contra o Palmeiras.",
-      "autor": "The Athletic",
-      "data": "2024-08-24",
-      "foto": "/fotos/competicoes/premier-league.jpeg"
-    },
-    {
-      "titulo": "Atuação de Gala?",
-      "conteudo": "Haaland fez uma ótima atuação, marcando um doblete que impulsinou seu time a uma vitória por 3x0 contra o Palmeiras.",
-      "autor": "The Athletic",
-      "data": "2024-08-25",
-      "foto": "/fotos/times/city.jpg"
-    },
-    {
-      "titulo": "Promessa do verdão!",
-      "conteudo": "Estevão vem mostrando grandes atuações recentemente pelo Palmeiras. Ele tem sido um líder dentro de campo.",
-      "autor": "The Athletic",
-      "data": "2024-08-25",
-      "foto": "/fotos/24-25/estevao/normal.jpg"
-    },
-    {
-      "titulo": "Melhor em Campo",
-      "conteudo": "Depois de uma ótima atuação, Estevão é o Melhor em Campo na partida contra Salford.",
-      "autor": "The Athletic",
-      "data": "2024-08-26",
-      "foto": "/fotos/24-25/estevao/craquejogo.jpg"
-    },
-    {
-      "titulo": "Barba, cabelo e bigode!",
-      "conteudo": "Endrick faz um hat-trick incrível para superar uma atuação tímida de Salford City na vitória do Palmeiras por 5x1.",
-      "autor": "The Athletic",
-      "data": "2024-08-27",
-      "foto": "/fotos/24-25/endrick/comemorando"
-    },
-    {
-      "titulo": "Melhor em Campo",
-      "conteudo": "Após uma ótima atuação, o goleiro Ramos foi eleito o Melhor em Campo na partida contra o Fulham.",
-      "autor": "The Athletic",
-      "data": "2024-08-31",
-      "foto": "/fotos/24-25/ramos/craquejogo.jpg"
-    },
-    {
-      "titulo": "Troca de posição",
-      "conteudo": "A torcida esta acostumada a ver Luis Guilherme jogar como Ponta Direita. A troca para jogar como Meia Atacante vai ser permanente ou temporária? A lesão de Raphael Veiga influênciou Frank Ocean nessa decisão?",
-      "autor": "Soyer Koprulu",
-      "data": "2024-09-01",
-      "foto": "/fotos/24-25/luisguilherme/normal"
-    },
-    {
-      "titulo": "Palmeiras vence o Torneio da Base!",
-      "conteudo": "O Palmeiras venceu o Crystal Palace nos pênaltis e conquistou o título da base em uma final inesquecível. Após sair perdendo por 3 a 0, o time buscou o empate nos últimos minutos e empatou o jogo nos segundos finais. Nas penalidades, o Verdão venceu por 5 a 4 e levantou a taça em uma virada histórica marcada por raça e superação.",
-      "autor": "Fabrizio Romano",
-      "data": "2024-09-02",
-      "foto": "/fotos/base/trofeu.png"
-    },
-    {
-      "titulo": "Endrick marca gol",
-      "conteudo": "Endrick marca um golaço de voleio em sua vitória de 4 a 2 contra o Brighton.",
-      "autor": "The Athletic",
-      "data": "2024-09-14",
-      "foto": "/fotos/24-25/endrick/comemorando"
-    },
-    {
-      "titulo": "Melhor em Campo",
-      "conteudo": "Após uma ótima atuação, Luis Guilherme foi eleito o Melhor em Campo na partida contra o Brighton",
-      "autor": "The Athletic",
-      "data": "2024-09-15",
-      "foto": "/fotos/24-25/luisguilherme/craquejogo.jpg"
-    },
-    {
-      "titulo": "Por Pouco!",
-      "conteudo": "A torcida do Palmeiras chegou a ficar sem ar com a finalização desperdiçada por Southampton que poderia mudar a historia do jogo",
-      "autor": "The Athletic",
-      "data": "2024-09-21",
-      "foto": "/fotos/torcida/agoniada"
-    },
-    {
-      "titulo": "Melhor em Campo",
-      "conteudo": "Depois de uma ótima atuação, Onuachu é o Melhor em Campo em partida contra o Palmeiras.",
-      "autor": "The Athletic",
-      "data": "2024-09-22",
-      "foto": "/fotos/times/southampton.jpg"
-    },
-    {
-      "titulo": "Futura Promessa",
-      "conteudo": "Grandes atuações de grandes atletas: é exatamente isso que Estevão tem mostrado ultimamente.",
-      "autor": "The Athletic",
-      "data": "2024-09-23",
-      "foto": "/fotos/24-25/estevao/normal.jpg"
-    },
-    {
-      "titulo": "Melhor em Campo",
-      "conteudo": "Depois de uma ótima atuação, Kevin é o Melhor em Campo na partida contra Lincoln.",
-      "autor": "The Athletic",
-      "data": "2024-09-25",
-      "foto": "/fotos/24-25/kevin/craquejogo.jpg"
-    },
-    {
-      "titulo": "Melhor em Campo",
-      "conteudo": "Depois de uma ótima atuação, Ramos é o Melhor em Campo na partida contra Aston Villa.",
-      "autor": "The Athletic",
-      "data": "2024-09-29",
-      "foto": "/fotos/24-25/ramos/craquejogo.jpg"
-    },
-    {
-      "titulo": "Gol do empate",
-      "conteudo": "O gol de Estevão ajudou o time no empate de 2 a 2 contra Aston Villa.",
-      "autor": "The Athletic",
-      "data": "2024-09-29",
-      "foto": "/fotos/24-25/estevao/normal.jpg"
-    }
-  ]
-  
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Após uma ótima atuação, Endrick é o Melhor em Campo na partida contra o Nottingham Forest.",
+    "autor": "TNT Sports",
+    "data": "2024-11-30",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Quebrando recordes?",
+    "conteudo": "Nesse momento Endrick está no caminho para alcançar o recorde histórico de gols de Premier League. Será que ao final da temporada vamos ter um novo recorde, depois de tantos anos?",
+    "autor": "Datafut",
+    "data": "2024-11-30",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Surpresa!",
+    "conteudo": "Com o andamento da temporada e o desempenho dos times bastante estabelecido, foi um pouco surpreendente ver o Palmeiras vencer o Nottingham Forest.",
+    "autor": "ESPN",
+    "data": "2024-11-30",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "No último minuto",
+    "conteudo": "Vitória para o Palmeiras no último minuto graças à entrada decisiva de Aubert.",
+    "autor": "The Atlantic",
+    "data": "2024-11-30",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Seleção da Semana",
+    "conteudo": "A Seleção da Semana foi anunciada — e mais uma vez o Palmeiras mostra sua força individual dentro do elenco. O ponta direita Estevão, o meio-campista Danilo e o zagueiro Declan Rodgers foram incluídos entre os melhores da rodada após grandes atuações pelos seus setores. Estevão segue como peça-chave do time, acumulando assistências e desequilíbrio ofensivo. Danilo tem se destacado como um motor do meio-campo, com inteligência na marcação e boa distribuição de jogo. Já Rodgers, além da segurança defensiva, vem chamando atenção também por suas participações ofensivas, consolidando-se como um dos melhores zagueiros da temporada até aqui. Com esses nomes em evidência, o Palmeiras mostra que, mesmo com oscilações nos resultados, segue com atletas em grande fase técnica e tática.",
+    "autor": "Premier League",
+    "data": "2024-11-27",
+    "foto": "/fotos/competicoes/premier-league.jpeg"
+  },
+  {
+    "titulo": "Zagueiro Atacante?",
+    "conteudo": "O zagueiro Rodgers marcou pela primeira vez na temporada, foi um lindo golaço de bicicleta no começo do jogo que levou o Palmeiras a uma vitória por 3 a 2 contra o Manchester United.",
+    "autor": "ESPN",
+    "data": "2024-11-26",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Após uma ótima atuação, Hojlund é o Melhor em Campo na partida contra o Palmeiras.",
+    "autor": "TNT Sports",
+    "data": "2024-11-25",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Subindo na tabela",
+    "conteudo": "Com a vitória contra Manchester United, o time de Palmeiras vai se aproximando da disputa no topo da tabela.",
+    "autor": "The Atlantic",
+    "data": "2024-11-24",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Jovem Promessa",
+    "conteudo": "Estevão continua a impressionar: a estrela de Palmeiras, com 5 assistências em 11 partidas, lidera as assistências em Premier League nesta temporada.",
+    "autor": "Datafut",
+    "data": "2024-11-11",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Após uma ótima atuação, Solanke é o Melhor em Campo na partida contra o Palmeiras.",
+    "autor": "The Atlantic",
+    "data": "2024-11-10",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Bola de Ouro 2024!",
+    "conteudo": "Parabéns, Haaland, oficialmente Ballon d'Or de 2024!",
+    "autor": "Fabrizio Romano",
+    "data": "2024-11-04",
+    "foto": "/fotos/trofeus/boladeouro.png"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Após uma ótima atuação, Hassan é o Melhor em Campo na partida contra o Leicester.",
+    "autor": "The Atlantic",
+    "data": "2024-11-03",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Endrick garante pontos!",
+    "conteudo": "O dramático gol de empate de Endrick impediu a vitória de Leicester City, levando Palmeiras ao empate por 1 a 1.",
+    "autor": "The Atlantic",
+    "data": "2024-11-03",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Análise do jogo: Palmeiras x L. City",
+    "conteudo": "Palmeiras e Leicester City saíram de campo com um ponto cada lado neste encontro da liga. Ambos se decepcionaram com os pontos que deixaram de somar.",
+    "autor": "Datafut",
+    "data": "2024-11-03",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Veiga decepcionado!",
+    "conteudo": "É um daqueles dias: decepção com o resultado e com a substituição. Agora é pensar no próximo jogo.",
+    "autor": "The Atlantic",
+    "data": "2024-11-02",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Palmeiras eliminado na base!",
+    "conteudo": "O Palmeiras foi eliminado nas quartas de final do campeonato de base após derrota por 1 a 0 contra o Arsenal. Em um jogo marcado por retranca extrema e postura defensiva dos ingleses, o Verdão teve dificuldades para criar e furar o bloqueio. O gol adversário veio em um contra-ataque isolado, e apesar da tentativa de propor o jogo, o Palmeiras não conseguiu reagir. A eliminação deixou um gosto amargo, principalmente pela forma covarde com que o jogo foi conduzido.",
+    "autor": "ESPN",
+    "data": "2024-11-02",
+    "foto": "/fotos/base/eliminada.png"
+  },
+  {
+    "titulo": "Seleção da Semana",
+    "conteudo": "A nova Seleção da Semana foi divulgada — e o Palmeiras emplacou três representantes! O atacante Endrick, o meio-campista Raphael Veiga e o zagueiro Declan Rodgers foram escolhidos entre os melhores da rodada após ótimas atuações em campo. Endrick segue imparável, somando gols, assistências e liderança ofensiva. Veiga mostrou toda sua técnica e visão de jogo no meio-campo, controlando o ritmo das jogadas. Já Rodgers, além da solidez defensiva, vem se destacando por sua entrega e participação na construção das jogadas desde a defesa. A trinca representa o bom momento do Verdão e mostra que o time está cada vez mais dominante nas atuações individuais e coletivas.",
+    "autor": "Premier League",
+    "data": "2024-10-29",
+    "foto": "/fotos/competicoes/premier-league.jpeg"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Depois de uma ótima atuação, Endrick é o Melhor em Campo em partida contra o Brentford.",
+    "autor": "The Athletic",
+    "data": "2024-10-26",
+    "foto": "/fotos/24-25/endrick/craquejogo.jpg"
+  },
+  {
+    "titulo": "Torcida animada",
+    "conteudo": "O grande retorno de Veiga deixou a torcida sem palavras, mas, infelizmente, não foi suficiente para garantir a vitória de Palmeiras.",
+    "autor": "The Atlantic",
+    "data": "2024-10-19",
+    "foto": "/fotos/torcida/animada.png"
+  },
+  {
+    "titulo": "Decepção",
+    "conteudo": "É um daqueles dias: decepção com o resultado e com a substituição. Agora é pensar no próximo jogo.",
+    "autor": "Estevão",
+    "data": "2024-10-18",
+    "foto": "/fotos/24-25/estevao/frustrado.jpg"
+  },
+  {
+    "titulo": "Veiga voltou",
+    "conteudo": "Veiga saiu do banco para fazer bonito e marcar o gol de empate para o Palmeiras",
+    "autor": "TNT Sports",
+    "data": "2024-10-18",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Seleção da Semana",
+    "conteudo": "A Seleção da Semana foi divulgada e dois nomes do Palmeiras marcaram presença: o atacante Endrick e o goleiro Ramos foram reconhecidos pelas atuações de destaque nas últimas partidas.  Endrick segue sendo o terror das defesas adversárias, acumulando gols e participações diretas nas vitórias do Verdão. Já Ramos, com defesas decisivas e segurança debaixo das traves, garantiu resultados importantes mesmo nos momentos de pressão. O reconhecimento vem em boa hora para ambos, que vivem grande fase técnica e são pilares fundamentais do elenco.",
+    "autor": "Premier League",
+    "data": "2024-10-12",
+    "foto": "/fotos/competicoes/premier-league.jpeg"
+  },
+  {
+    "titulo": "Indo embora...?",
+    "conteudo": "Frank Ocean se reuniu com representantes de Catar em um hotel no final de semana passada, no que foi descrito como \"conversas preliminares\".",
+    "autor": "Datafut",
+    "data": "2024-10-10",
+    "foto": "/fotos/24-25/frankocean/contrato.png"
+  },
+  {
+    "titulo": "Quebrando recordes?",
+    "conteudo": "Endrick está no caminho certo para quebrar o recorde de gols da Premier League. Preparem-se para revisar os livros de história!",
+    "autor": "TNT Sports",
+    "data": "2024-10-09",
+    "foto": "/fotos/24-25/endrick/comemorando.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Após uma ótima atuação, Endrick é o Melhor em Campo na partida contra o West Ham.",
+    "autor": "The Atlantic",
+    "data": "2024-10-08",
+    "foto": "/fotos/24-25/endrick/craquejogo.jpg"
+  },
+  {
+    "titulo": "Hat Trick",
+    "conteudo": "Endrick marcou o último gol da partida e fechou o hat-trick para ajudar sua equipe a garantir a vitória por 3 a 0 contra o West Ham.",
+    "autor": "The Atlantic",
+    "data": "2024-10-07",
+    "foto": "/fotos/24-25/endrick/comemorando.jpg"
+  },
+  {
+    "titulo": "Surpresa!",
+    "conteudo": "Endrick e Lewis tem jogado lado a lado em uma combinação inesperada após a substituição de Ocean durante sua recuperação.",
+    "autor": "ESPN",
+    "data": "2024-10-06",
+    "foto": "/fotos/24-25/frankocean/batendopalma.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Depois de uma ótima atuação, Ramos é o Melhor em Campo na partida contra Aston Villa.",
+    "autor": "The Athletic",
+    "data": "2024-09-29",
+    "foto": "/fotos/24-25/ramos/craquejogo.jpg"
+  },
+  {
+    "titulo": "Gol do empate",
+    "conteudo": "O gol de Estevão ajudou o time no empate de 2 a 2 contra Aston Villa.",
+    "autor": "The Athletic",
+    "data": "2024-09-29",
+    "foto": "/fotos/24-25/estevao/normal.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Depois de uma ótima atuação, Kevin é o Melhor em Campo na partida contra Lincoln.",
+    "autor": "The Athletic",
+    "data": "2024-09-25",
+    "foto": "/fotos/24-25/kevin/craquejogo.jpg"
+  },
+  {
+    "titulo": "Futura Promessa",
+    "conteudo": "Grandes atuações de grandes atletas: é exatamente isso que Estevão tem mostrado ultimamente.",
+    "autor": "The Athletic",
+    "data": "2024-09-23",
+    "foto": "/fotos/24-25/estevao/normal.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Depois de uma ótima atuação, Onuachu é o Melhor em Campo em partida contra o Palmeiras.",
+    "autor": "The Athletic",
+    "data": "2024-09-22",
+    "foto": "/fotos/times/southampton.jpg"
+  },
+  {
+    "titulo": "Por Pouco!",
+    "conteudo": "A torcida do Palmeiras chegou a ficar sem ar com a finalização desperdiçada por Southampton que poderia mudar a historia do jogo",
+    "autor": "The Athletic",
+    "data": "2024-09-21",
+    "foto": "/fotos/torcida/desespero.png"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Após uma ótima atuação, Luis Guilherme foi eleito o Melhor em Campo na partida contra o Brighton",
+    "autor": "The Athletic",
+    "data": "2024-09-15",
+    "foto": "/fotos/24-25/luisguilherme/craquejogo.jpg"
+  },
+  {
+    "titulo": "Endrick marca gol",
+    "conteudo": "Endrick marca um golaço de voleio em sua vitória de 4 a 2 contra o Brighton.",
+    "autor": "The Athletic",
+    "data": "2024-09-14",
+    "foto": "/fotos/24-25/endrick/comemorando"
+  },
+  {
+    "titulo": "Palmeiras vence o Torneio da Base!",
+    "conteudo": "O Palmeiras venceu o Crystal Palace nos pênaltis e conquistou o título da base em uma final inesquecível. Após sair perdendo por 3 a 0, o time buscou o empate nos últimos minutos e empatou o jogo nos segundos finais. Nas penalidades, o Verdão venceu por 5 a 4 e levantou a taça em uma virada histórica marcada por raça e superação.",
+    "autor": "Fabrizio Romano",
+    "data": "2024-09-02",
+    "foto": "/fotos/base/trofeu.png"
+  },
+  {
+    "titulo": "Troca de posição",
+    "conteudo": "A torcida esta acostumada a ver Luis Guilherme jogar como Ponta Direita. A troca para jogar como Meia Atacante vai ser permanente ou temporária? A lesão de Raphael Veiga influênciou Frank Ocean nessa decisão?",
+    "autor": "Soyer Koprulu",
+    "data": "2024-09-01",
+    "foto": "/fotos/24-25/luisguilherme/normal"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Após uma ótima atuação, o goleiro Ramos foi eleito o Melhor em Campo na partida contra o Fulham.",
+    "autor": "The Athletic",
+    "data": "2024-08-31",
+    "foto": "/fotos/24-25/ramos/craquejogo.jpg"
+  },
+  {
+    "titulo": "Barba, cabelo e bigode!",
+    "conteudo": "Endrick faz um hat-trick incrível para superar uma atuação tímida de Salford City na vitória do Palmeiras por 5x1.",
+    "autor": "The Athletic",
+    "data": "2024-08-27",
+    "foto": "/fotos/24-25/endrick/comemorando"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Depois de uma ótima atuação, Estevão é o Melhor em Campo na partida contra Salford.",
+    "autor": "The Athletic",
+    "data": "2024-08-26",
+    "foto": "/fotos/24-25/estevao/craquejogo.jpg"
+  },
+  {
+    "titulo": "Atuação de Gala?",
+    "conteudo": "Haaland fez uma ótima atuação, marcando um doblete que impulsinou seu time a uma vitória por 3x0 contra o Palmeiras.",
+    "autor": "The Athletic",
+    "data": "2024-08-25",
+    "foto": "/fotos/times/city.jpg"
+  },
+  {
+    "titulo": "Promessa do verdão!",
+    "conteudo": "Estevão vem mostrando grandes atuações recentemente pelo Palmeiras. Ele tem sido um líder dentro de campo.",
+    "autor": "The Athletic",
+    "data": "2024-08-25",
+    "foto": "/fotos/24-25/estevao/normal.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Depois de uma ótima atuação, Haaland é o melhor em campo em partida contra o Palmeiras.",
+    "autor": "The Athletic",
+    "data": "2024-08-24",
+    "foto": "/fotos/competicoes/premier-league.jpeg"
+  },
+  {
+    "titulo": "Kristensen é uma decepção?",
+    "conteudo": "Frank Ocean se preocupa com má fase de Kristensen, que registrou mais um desempenho frustante como lateral direito.",
+    "autor": "The Athletic",
+    "data": "2024-08-20",
+    "foto": "/fotos/24-25/kristensen/frustrado.jpg"
+  },
+  {
+    "titulo": "Começo de temporada do Palmeiras",
+    "conteudo": "'Não foi o começo que a gente queria, mas a temporada está só começando.', avalia Ocean após a estreia infeliz na liga.",
+    "autor": "The Athletic",
+    "data": "2024-08-19",
+    "foto": "/fotos/competicoes/premier-league.jpeg"
+  },
+  {
+    "titulo": "Palmeiras 0x4 Liverpool",
+    "conteudo": "Jota fez uma ótima atuação por Liverpool, marcando um doblete que impulsionou seu time a uma vitória por 4 a 0 sobre o Palmerias.",
+    "autor": "The Athletic",
+    "data": "2024-08-18",
+    "foto": "/fotos/times/liverpool.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Depois de uma ótima atuação, Jota é o Melhor em Campo na partida contra o Palmeiras.",
+    "autor": "The Athletic",
+    "data": "2024-08-17",
+    "foto": "/fotos/competicoes/premier-league.jpeg"
+  },
+  {
+    "titulo": "Começo ruim?",
+    "conteudo": "Após retorno de Endrick, a torcida do Palmeiras ficou se perguntando de quem é a culpa pelo resultado da última partida.",
+    "autor": "The Athletic",
+    "data": "2024-08-17",
+    "foto": "/fotos/24-25/endrick/frustrado.jpeg"
+  }
+]

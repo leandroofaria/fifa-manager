@@ -23,9 +23,9 @@ export function NoticiasCarousel({ noticias }: Props) {
       <Carousel
         items={noticiasOrdenadas.map((noticia, index) => (
           <Card
-            key={noticia.titulo + index}
+            key={`${noticia.titulo}-${index}`}
             index={index}
-            layout
+            layout={false} // Desativado para evitar glitch de layoutId no fechamento
             card={{
               category: noticia.data,
               title: noticia.titulo,

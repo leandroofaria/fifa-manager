@@ -54,19 +54,112 @@
       "assistenciasTime": ["Estevão"],
       "golsAdversario": ["Onuachu"],
       "craqueJogo": "Onuachu",
-      "descricao": ""
+      "descricao": "Palmeiras e Southampton empataram em 1 a 1 em um jogo cheio de tensão no Allianz. Endrick abriu o placar após boa jogada de Estevão, mas Onuachu se destacou com grande presença ofensiva, marcou o gol de empate e foi eleito o Melhor em Campo. A torcida alviverde ainda levou um susto nos minutos finais com uma chance clara desperdiçada pelos visitantes, que poderia ter mudado o rumo do jogo."
+
     },
     {
-      "data": "2024-09-",
+      "data": "2024-09-29",
       "adversario": "Aston Villa",
       "casa": true,
       "placar": "2-2",
-      "golsTime": ["Estevão","Endrick"],
+      "golsTime": ["Estevão", "Endrick"],
       "assistenciasTime": ["Kevin", "Estevão"],
       "golsAdversario": ["Watkins", "De Angelis (GC)"],
       "craqueJogo": "Ramos",
+      "descricao": "Em um jogo equilibrado no Allianz, Palmeiras e Aston Villa empataram por 2 a 2. O goleiro Ramos foi fundamental para segurar o resultado com defesas decisivas e foi eleito o Melhor em Campo. Estevão marcou um dos gols do Verdão e também contribuiu com uma assistência. Endrick completou o placar. Do lado adversário, Watkins e um gol contra de De Angelis garantiram o empate para os visitantes. O time mostrou poder de reação, mas ainda busca estabilidade defensiva."
+    },
+    {
+      "data": "2024-10-06",
+      "adversario": "West Ham",
+      "casa": true,
+      "placar": "2-2",
+      "golsTime": ["Endrick (3x)"],
+      "assistenciasTime": ["Luis Guilherme", "Estevão", "Danilo"],
+      "golsAdversario": [""],
+      "craqueJogo": "Endrick",
+      "descricao": "Em mais uma atuação de gala, Endrick brilhou com um hat-trick na vitória do Palmeiras por 3 a 0 sobre o West Ham. O atacante mostrou por que é uma das maiores promessas do futebol atual, sendo decisivo em todos os momentos do jogo e eleito o Melhor em Campo. As assistências ficaram por conta de Luis Guilherme, Estevão e Danilo, que contribuíram com ótima movimentação ofensiva. A vitória convincente empolgou a torcida e reforça a boa fase da equipe na temporada."
+    },
+    {
+      "data": "2024-10-19",
+      "adversario": "Everton",
+      "casa": true,
+      "placar": "2-2",
+      "golsTime": ["Raphael Veiga", "Richards"],
+      "assistenciasTime": [],
+      "golsAdversario": ["Doucoure", "Mangala"],
+      "craqueJogo": "",
+      "descricao": "Em um jogo cheio de emoção no Allianz, Palmeiras e Everton ficaram no empate por 2 a 2. O destaque ficou para o retorno de Raphael Veiga, que saiu do banco e marcou um belo gol, levantando a torcida. Richards também deixou o dele, mas o time sofreu com falhas defensivas, permitindo que Doucouré e Mangala marcassem para os visitantes. A atuação gerou sentimentos mistos na torcida: empolgação com o retorno de Veiga, mas frustração com o resultado final."
+    },
+    {
+      "data": "2024-10-26",
+      "adversario": "Brentford",
+      "casa": true,
+      "placar": "5-1",
+      "golsTime": ["Endrick", "Kevin", "Estevão", "Raphael Veiga", "Aubert"],
+      "assistenciasTime": ["Kevin", "Endrick", "Raphael Veiga"],
+      "golsAdversario": ["Kevin Schade"],
+      "craqueJogo": "Endrick",
+      "descricao": "O Palmeiras venceu o Brentford por 5 a 1 em mais uma atuação coletiva sólida. Endrick brilhou novamente, marcando e dando assistência, e foi eleito o Melhor em Campo. Kevin, Estevão, Raphael Veiga e Aubert também deixaram suas marcas no placar, com destaque para a construção coletiva das jogadas ofensivas. Schade descontou para o Brentford, mas não foi suficiente para conter o ímpeto do Verdão, que dominou o jogo do início ao fim no Allianz."
+    },
+    {
+      "data": "2024-10-26",
+      "adversario": "Leiscester City",
+      "casa": true,
+      "placar": "5-1",
+      "golsTime": ["Endrick"],
+      "assistenciasTime": ["Taylor Wright"],
+      "golsAdversario": ["Patson Daka"],
+      "craqueJogo": "Hassan",
       "descricao": ""
+    },
+    {
+      "data": "2024-11-10",
+      "adversario": "Tottenham",
+      "casa": false,
+      "placar": "2-4",
+      "golsTime": ["Endrick", "Kevin"],
+      "assistenciasTime": ["Estevão", "Maloney"],
+      "golsAdversario": ["Solanke", "Tel", "Johnson", "Maddison"],
+      "craqueJogo": "Solanke",
+      "descricao": "O Palmeiras sofreu uma derrota por 4 a 2 fora de casa diante do Tottenham em uma partida movimentada e com muitas chances. Solanke, em noite inspirada, foi o destaque da partida, abrindo o placar e sendo eleito o Melhor em Campo. Tel, Johnson e Maddison também marcaram para os donos da casa. O Verdão tentou reagir com gols de Endrick e Kevin, com assistências de Estevão e Maloney, mas não conseguiu conter a força ofensiva do Tottenham. Apesar da derrota, Estevão segue liderando o ranking de assistências na Premier League com cinco passes decisivos em 11 jogos."
+    },
+    {
+      "data": "2024-11-24",
+      "adversario": "Manchester United",
+      "casa": false,
+      "placar": "3-2",
+      "golsTime": ["Rodgers", "Kevin", "Estevão"],
+      "assistenciasTime": ["Estevão", "Endrick", "Lewis"],
+      "golsAdversario": ["Hoijlund", "Hoijlund"],
+      "craqueJogo": "Hoijlund",
+      "descricao": "Em um jogaço cheio de golaços, o Palmeiras venceu o Manchester United por 3 a 2 fora de casa. Rodgers abriu o placar com um golaço de bicicleta logo no início, surpreendendo a defesa adversária. Hoijlund empatou pouco depois e ainda voltou a marcar nos acréscimos, mas não foi suficiente para evitar a vitória alviverde. Kevin virou o jogo com um voleio espetacular, e Estevão ampliou com um golaço colocado no ângulo. Mesmo com a grande atuação de Hoijlund, eleito o Melhor em Campo, o Verdão garantiu três pontos importantes e subiu na tabela."
+    },
+    {
+      "data": "2024-11-30",
+      "adversario": "Nottingham Forest",
+      "casa": false,
+      "placar": "3-2",
+      "golsTime": ["Maloney", "Endrick", "Aubert"],
+      "assistenciasTime": ["Estevão", "Raphael Veiga"],
+      "golsAdversario": ["Wood", "Sosa"],
+      "craqueJogo": "Endrick",
+      "descricao": "Em um jogo cheio de reviravoltas, o Palmeiras venceu o Nottingham Forest por 3 a 2 fora de casa com emoção até o fim. O Forest abriu o placar com Wood, mas o Verdão reagiu e virou com gols de Maloney e Endrick, em jogadas bem construídas por Estevão e Raphael Veiga. Quando a vitória parecia garantida, Sosa empatou para os donos da casa. Mas no último minuto, Aubert, vindo do banco, apareceu livre na área e marcou o gol da vitória em uma jogada decisiva. Endrick foi eleito o Melhor em Campo e segue quebrando recordes, enquanto o Palmeiras soma três pontos importantes na reta final do primeiro turno."
+    },
+    {
+      "data": "2024-12-03",
+      "adversario": "Crystal Palace",
+      "casa": true,
+      "placar": "",
+      "golsTime": [""],
+      "assistenciasTime": [""],
+      "golsAdversario": [""],
+      "craqueJogo": "Endrick",
+      "descricao": "Em um jogo cheio de reviravoltas, o Palmeiras venceu o Nottingham Forest por 3 a 2 fora de casa com emoção até o fim. O Forest abriu o placar com Wood, mas o Verdão reagiu e virou com gols de Maloney e Endrick, em jogadas bem construídas por Estevão e Raphael Veiga. Quando a vitória parecia garantida, Sosa empatou para os donos da casa. Mas no último minuto, Aubert, vindo do banco, apareceu livre na área e marcou o gol da vitória em uma jogada decisiva. Endrick foi eleito o Melhor em Campo e segue quebrando recordes, enquanto o Palmeiras soma três pontos importantes na reta final do primeiro turno."
     }
+    
+    
+
+    
   ],
   "estatisticas": [
     {

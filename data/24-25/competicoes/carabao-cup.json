@@ -10,18 +10,32 @@
       "assistenciasTime": ["Kevin", "Estevão", "Endrick", "Danilo", "Evan Maloney"],
       "golsAdversario": ["Richard"],
       "craqueJogo": "Endrick",
-      "descricao": ""
+      "descricao": "Em uma atuação dominante fora de casa, o Palmeiras goleou o Salford City por 5 a 1. Endrick foi o grande nome do jogo com um hat-trick memorável, além de uma assistência. Estevão também brilhou, contribuindo com gol e assistência e sendo peça fundamental no ataque. Kevin deixou sua marca e participou bem da criação. Apesar do gol de honra de Richard, o Verdão controlou a partida do início ao fim e mostrou sua força ofensiva."
+
     },
     {
-      "data": "",
-      "adversario": "",
+      "data": "2024-09-25",
+      "adversario": "Lincoln",
       "casa": true,
       "placar": "5-1",
       "golsTime": ["Endrick (3x)", "Estevão", "Danilo"],
       "assistenciasTime": ["Kevin (3x)", "Estevão", "Endrick"],
       "golsAdversario": ["Lucas Zynk"],
       "craqueJogo": "Kevin",
-      "descricao": ""
+      "descricao": "O Palmeiras aplicou mais uma goleada em casa, desta vez por 5 a 1 contra o Lincoln. Endrick novamente brilhou com três gols e uma assistência. Estevão e Danilo também balançaram as redes. Mas o destaque da partida foi Kevin, que deu três assistências e comandou o setor ofensivo com muita velocidade e inteligência, sendo eleito o Melhor em Campo. O gol de honra do Lincoln foi marcado por Lucas Zynk. O Verdão segue embalado e com moral elevada."
+
+    },
+    {
+      "data": "2024-11-01",
+      "adversario": "Manchester City",
+      "casa": true,
+      "placar": "2-2 / 4-5 (Pênaltis)",
+      "golsTime": ["Endrick", "Estevão"],
+      "assistenciasTime": ["Kevin"],
+      "golsAdversario": ["Phoden", "Matheus Nunes"],
+      "craqueJogo": "Matheus Nunes",
+      "descricao": "Em um confronto emocionante e equilibrado no Allianz, Palmeiras e Manchester City empataram por 2 a 2 no tempo normal. Endrick e Estevão marcaram para o Verdão, enquanto Phoden e Matheus Nunes balançaram as redes para os visitantes. A partida foi intensa, com as duas equipes se equiparando em posse e oportunidades. Nos pênaltis, Estevão desperdiçou a primeira cobrança, Ramos defendeu o chute de Phoden, mas Ederson brilhou ao pegar o pênalti de Richards, garantindo a vitória do City por 5 a 4 nas penalidades. Com o resultado, o Palmeiras se despede de forma amarga da única competição que disputava título na temporada, sendo eliminado nas oitavas de final."
+
     }
   ],
   "estatisticas": [
