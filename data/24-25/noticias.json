@@ -1,5 +1,104 @@
 [
   {
+    "titulo": "Vitória na raça",
+    "conteudo": "Em um duelo intenso fora de casa, o Palmeiras venceu o Arsenal por 3 a 2 em um dos jogos mais equilibrados da temporada. Estevão abriu o placar com uma jogada antológica: driblou meio time no meio-campo e finalizou com estilo para o fundo da rede. Na sequência, um erro de passe de Endrick deu origem ao empate — Saka aproveitou, driblou o goleiro e empurrou para o gol vazio. Veiga respondeu com uma arrancada precisa e um chute colocado que o goleiro não conseguiu defender. Em seguida, o mesmo Veiga lançou um passe genial para Endrick, que se redimiu mandando um foguete nas redes. Havertz ainda descontou no fim, mas o Verdão segurou a vitória. Um jogo digno de clássico, com grandes momentos individuais e emoção até o final.",
+    "autor": "TNT Sports",
+    "data": "2024-12-26",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Raphael Veiga foi o grande destaque da partida contra o Arsenal. Comandando o meio de campo com inteligência, intensidade e frieza, o camisa 23 marcou um golaço em jogada individual e ainda deu uma assistência perfeita para Endrick. Sua leitura de jogo, controle de ritmo e presença ofensiva foram cruciais na vitória do Palmeiras. Pela liderança em campo e atuação decisiva, foi eleito o Melhor em Campo com sobras.",
+    "autor": "The Athletic",
+    "data": "2024-12-26",
+    "foto": "/fotos/24-25/veiga/craquejogo.jpg"
+  },
+  {
+    "titulo": "Chance desperdiçada",
+    "conteudo": "Marks teve nos pés a oportunidade de dobrar a vantagem do Palmeiras diante do Arsenal, mas acabou desperdiçando. Após ótimo passe em profundidade, o atacante dominou com espaço, avançou e bateu cruzado, mas a bola passou raspando a trave. Era o lance que poderia dar mais tranquilidade ao time, mas virou motivo de frustração. A torcida sentiu o peso da chance perdida, que poderia ter definido a partida muito antes do apito final.",
+    "autor": "ESPN",
+    "data": "2024-12-26",
+    "foto": "/fotos/24-25/marks/chance-perdida.jpg"
+  }
+  ,
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Mais uma vez, Endrick mostrou porque é o principal nome do Palmeiras na temporada. Com intensidade, presença de área e precisão nas finalizações, o jovem atacante foi eleito o Melhor em Campo após mais uma grande atuação. Ele não apenas marcou, como também participou ativamente da construção ofensiva, chamando a responsabilidade nos momentos decisivos. A maturidade que vem apresentando impressiona — dentro de campo, Endrick já se comporta como um veterano.",
+    "autor": "The Atlantic",
+    "data": "2024-12-22",
+    "foto": "/fotos/24-25/endrick/craquejogo.jpg"
+  },
+  {
+    "titulo": "Hat-trick em vão",
+    "conteudo": "Endrick marcou três vezes e fez o que pôde, mas não foi o bastante. O Palmeiras perdeu por 4 a 3 para o Newcastle em um jogo caótico e doloroso. A zaga, completamente perdida sem Rodgers, sofreu do início ao fim. Hassan, que substituiu o defensor, mostrou-se inseguro, mal posicionado e incapaz de acompanhar a intensidade do adversário. É preciso questionar seriamente sua capacidade de atuar neste nível. A defesa virou uma bagunça, e Endrick — mesmo com o hat-trick — saiu de campo frustrado. Fica claro que sem organização atrás, nem o brilho individual na frente salva.",
+    "autor": "ESPN",
+    "data": "2024-12-22",
+    "foto": "/fotos/24-25/endrick/frustrado.jpg"
+  },
+  {
+    "titulo": "O Garçom da Liga",
+    "conteudo": "Com uma visão de jogo impressionante e tomada de decisão precisa, Estevão assumiu a liderança do ranking de assistências da Premier League nesta temporada com 7 assistências em 17 partidas. São passes cirúrgicos, construções de jogadas que terminam em gols e um entendimento coletivo cada vez mais afiado. A joia do Palmeiras se consolida como um dos jogadores mais decisivos do campeonato — e o número de assistências não deixa dúvidas disso.",
+    "autor": "Datafut",
+    "data": "2024-12-22",
+    "foto": "/fotos/24-25/estevao/assistencias.jpg"
+  },
+  {
+    "titulo": "Dedicado e Determinado",
+    "conteudo": "Raphael Veiga vem mostrando mais do que técnica: vem mostrando alma. Com atuações consistentes e passes decisivos, o meia tem sido fundamental na engrenagem ofensiva do Palmeiras. Mesmo quando não aparece nos gols ou nos holofotes, sua presença é sentida no ritmo do jogo, nas movimentações inteligentes e na entrega sem bola. A dedicação de Veiga é um lembrete constante de que talento sem esforço não basta — e ele tem entregado os dois.",
+    "autor": "The Athletic",
+    "data": "2024-12-22",
+    "foto": "/fotos/24-25/veiga/dedicado.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Após uma ótima atuação, Endrick é o Melhor em Campo na partida contra o Wolves.",
+    "autor": "The Atlantic",
+    "data": "2024-12-13",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Endrick Novamente!",
+    "conteudo": "Endrick fez uma ótima atuação por Palmeiras, marcando um doblete que levou seu time a uma vitória por 2 a 1 contra Wolves!",
+    "autor": "ESPN",
+    "data": "2024-12-14",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Após uma ótima atuação, Endrick é o Melhor em Campo na partida contra o B'mouth!",
+    "autor": "Premier League",
+    "data": "2024-12-08",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Barba, Cabelo e Bigode",
+    "conteudo": "Endrick marcou o último gol da partida e fechou o hat-trick para ajudar sua equipe a garantir a vitória por 3 a 1 contra AFC Bournemouth.",
+    "autor": "ESPN",
+    "data": "2024-12-07",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo",
+    "conteudo": "Após uma ótima atuação, Endrick é o Melhor em Campo na partida contra o C. Palace.",
+    "autor": "The Atlantic",
+    "data": "2024-12-04",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Futuro Craque!",
+    "conteudo": "Endrick anota seu gol pelo Palmeiras na vitória por 3 a 2 contra Crystal Palace",
+    "autor": "ESPN",
+    "data": "2024-12-04",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
+    "titulo": "Seleção da Semana",
+    "conteudo": "A nova Seleção da Semana foi revelada, e o Palmeiras garantiu presença com três jogadores em destaque: o atacante Endrick, o meio-campista Evan Maloney e o zagueiro Declan Rodgers foram reconhecidos por suas atuações decisivas na última rodada.  Endrick continua imparável, sendo peça-chave no ataque alviverde com gols e presença constante nas jogadas ofensivas. Maloney, cada vez mais entrosado com o time, brilhou com boa movimentação e participação direta nos lances de perigo. Já Rodgers segue mostrando consistência defensiva e personalidade, sendo uma das peças mais regulares do setor defensivo do Verdão.  A presença dos três atletas reflete o bom momento da equipe, que segue firme na disputa e demonstra força coletiva e talento individual.",
+    "autor": "Premier League",
+    "data": "2024-12-03",
+    "foto": "/fotos/24-25/default.jpg"
+  },
+  {
     "titulo": "Melhor em Campo",
     "conteudo": "Após uma ótima atuação, Endrick é o Melhor em Campo na partida contra o Nottingham Forest.",
     "autor": "TNT Sports",

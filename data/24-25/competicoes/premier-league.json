@@ -149,13 +149,95 @@
       "data": "2024-12-03",
       "adversario": "Crystal Palace",
       "casa": true,
+      "placar": "3-2",
+      "golsTime": ["Endrick", "Maloney", "Aubert"],
+      "assistenciasTime": ["Raphael Veiga", "Estevão"],
+      "golsAdversario": ["Eze", "Mateta"],
+      "craqueJogo": "Endrick",
+      "descricao": "O Palmeiras venceu o Crystal Palace por 3 a 2 em casa, em uma partida equilibrada e intensa. Endrick, mais uma vez, foi o protagonista da noite com grande atuação ofensiva e gol decisivo, sendo eleito o Melhor em Campo. Maloney e Aubert também se destacaram, contribuindo para a construção das jogadas e controle do meio-campo. A equipe visitante pressionou nos minutos finais, mas o Verdão segurou o resultado e garantiu três pontos importantes na reta final do campeonato."
+    },
+    {
+      "data": "2024-12-07",
+      "adversario": "Bournemouth",
+      "casa": true,
+      "placar": "3-1",
+      "golsTime": ["Endrick (3x)"],
+      "assistenciasTime": ["Estevão", "Raphael Veiga", "Kevin"],
+      "golsAdversario": ["Solanke"],
+      "craqueJogo": "Endrick",
+      "descricao": "O Palmeiras venceu o Bournemouth por 3 a 1 no Allianz Parque, com uma atuação dominante de Endrick. O jovem atacante marcou um hat-trick impecável, sendo decisivo do início ao fim e eleito o Melhor em Campo. A equipe adversária até chegou a descontar, mas o Verdão controlou o ritmo do jogo, criando as melhores chances e garantindo mais uma vitória importante na temporada. Com o resultado, Endrick segue quebrando marcas e consolidando seu nome como o principal destaque da equipe no campeonato."
+    },
+    {
+      "data": "2024-12-13",
+      "adversario": "Wolverhampton",
+      "casa": false,
+      "placar": "2-1",
+      "golsTime": ["Endrick (2x)"],
+      "assistenciasTime": ["Raphael Veiga (2x)"],
+      "golsAdversario": [""],
+      "craqueJogo": "Endrick",
+      "descricao": "Em mais uma grande atuação fora de casa, o Palmeiras venceu o Wolverhampton por 2 a 1 com dois gols de Endrick, ambos após assistências geniais de Raphael Veiga. No primeiro lance, Veiga deixou Endrick na cara do goleiro com um passe preciso entre os zagueiros. No segundo, o meia superou a linha defensiva com um passe que tirou o goleiro da jogada, deixando Endrick livre para marcar. Com esse entrosamento, o Verdão conquistou mais três pontos na Premier League."
+    },
+    {
+      "data": "2024-12-22",
+      "adversario": "Newcastle",
+      "casa": true,
+      "placar": "3-4",
+      "golsTime": ["Endrick (3x)"],
+      "assistenciasTime": ["Estevão", "Veiga"],
+      "golsAdversario": ["Isak", "Gordon (2X)", "Trippier"],
+      "craqueJogo": "Endrick",
+      "descricao": "Mesmo com um hat-trick de Endrick, o Palmeiras foi derrotado em casa por 4 a 3 pelo Newcastle em uma partida marcada por falhas defensivas. O jovem atacante fez tudo o que podia, marcando três vezes e sendo eleito o Melhor em Campo. No entanto, sem a presença de Rodgers, a defesa se mostrou completamente desorganizada. Hassan, seu substituto, teve atuação muito abaixo, comprometendo o sistema defensivo. O time sofreu com bolas nas costas e falta de cobertura, permitindo que o adversário aproveitasse as chances. Apesar da entrega ofensiva, o resultado deixou um gosto amargo — uma derrota que escancarou a dependência da equipe por consistência defensiva."
+    },
+    {
+      "data": "2024-12-26",
+      "adversario": "Arsenal",
+      "casa": false,
+      "placar": "3-2",
+      "golsTime": ["Estevão", "Raphael Veiga", "Endrick"],
+      "assistenciasTime": ["Raphael Veiga"],
+      "golsAdversario": ["Saka", "Havertz"],
+      "craqueJogo": "Raphael Veiga",
+      "descricao": "Em um confronto eletrizante fora de casa, o Palmeiras venceu o Arsenal por 3 a 2 com grande atuação de Raphael Veiga. Estevão abriu o placar com uma jogada antológica, driblando vários marcadores desde o meio de campo e finalizando com categoria. O empate veio após erro de Endrick, que deu o passe nos pés de Saka — o atacante driblou o goleiro e empurrou para o gol vazio. Veiga recolocou o Verdão na frente com um chute colocado após bela arrancada e, pouco depois, deu um passe espetacular para Endrick, que se redimiu marcando o terceiro. Havertz ainda descontou no fim, mas o Verdão segurou a vitória com raça e organização em um dos melhores jogos da temporada."
+    },
+    {
+      "data": "2024-12-29",
+      "adversario": "",
+      "casa": false,
       "placar": "",
       "golsTime": [""],
       "assistenciasTime": [""],
       "golsAdversario": [""],
-      "craqueJogo": "Endrick",
-      "descricao": "Em um jogo cheio de reviravoltas, o Palmeiras venceu o Nottingham Forest por 3 a 2 fora de casa com emoção até o fim. O Forest abriu o placar com Wood, mas o Verdão reagiu e virou com gols de Maloney e Endrick, em jogadas bem construídas por Estevão e Raphael Veiga. Quando a vitória parecia garantida, Sosa empatou para os donos da casa. Mas no último minuto, Aubert, vindo do banco, apareceu livre na área e marcou o gol da vitória em uma jogada decisiva. Endrick foi eleito o Melhor em Campo e segue quebrando recordes, enquanto o Palmeiras soma três pontos importantes na reta final do primeiro turno."
+      "craqueJogo": "",
+      "descricao": ""
+    },
+    {
+      "data": "2024-12-26",
+      "adversario": "",
+      "casa": false,
+      "placar": "",
+      "golsTime": [""],
+      "assistenciasTime": [""],
+      "golsAdversario": [""],
+      "craqueJogo": "",
+      "descricao": ""
+    },
+    {
+      "data": "2024-12-26",
+      "adversario": "",
+      "casa": false,
+      "placar": "",
+      "golsTime": [""],
+      "assistenciasTime": [""],
+      "golsAdversario": [""],
+      "craqueJogo": "",
+      "descricao": ""
     }
+    
+    
+    
+    
+    
     
     
 
