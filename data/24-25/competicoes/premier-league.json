@@ -202,26 +202,49 @@
     },
     {
       "data": "2024-12-29",
-      "adversario": "",
+      "adversario": "Chelsea",
       "casa": false,
-      "placar": "",
-      "golsTime": [""],
-      "assistenciasTime": [""],
-      "golsAdversario": [""],
-      "craqueJogo": "",
-      "descricao": ""
+      "placar": "1-3",
+      "golsTime": ["Endrick"],
+      "assistenciasTime": ["Kristensen"],
+      "golsAdversario": ["Cole Palmer (2x)", "Coman"],
+      "craqueJogo": "Cole Palmer",
+      "descricao": "O Palmeiras foi superado pelo Chelsea por 3 a 1 em Londres. Cole Palmer brilhou com dois gols e foi o grande nome da partida, enquanto Coman saiu do banco para marcar o terceiro. O Verdão descontou com Endrick, que finalizou após bela assistência de Kristensen. Apesar do gol, a atuação alviverde ficou abaixo do esperado, com Estevão apagado e a defesa sofrendo para conter o ataque adversário. O goleiro Ramos evitou uma derrota ainda mais elástica com boas defesas, mas a superioridade do Chelsea foi evidente do início ao fim."
+    }
+    ,
+    {
+      "data": "2025-01-04",
+      "adversario": "Fulham",
+      "casa": false,
+      "placar": "3-2",
+      "golsTime": ["Endrick (2x)", "Raphael Veiga"],
+      "assistenciasTime": ["Estevão", "Endrick", "Kevin"],
+      "golsAdversario": ["Ibowi", "Andreas Pereira"],
+      "craqueJogo": "Endrick",
+      "descricao": "O Palmeiras venceu o Fulham fora de casa em um confronto eletrizante. Endrick abriu o placar após passe de Estevão com um chute colocado. O Fulham empatou com Ibowi, mas Veiga colocou o Verdão de novo na frente com assistência de Endrick. Pouco depois, o camisa 9 sofreu falta na entrada da área que resultou em expulsão para o zagueiro adversário. Na cobrança, Estevão quase marcou, e no rebote Kevin driblou e cruzou para Endrick fazer um golaço de voleio. Andreas Pereira ainda descontou de falta no fim, mas não foi o suficiente para evitar a vitória do Palmeiras por 3 a 2."
     },
     {
-      "data": "2024-12-26",
-      "adversario": "",
-      "casa": false,
-      "placar": "",
-      "golsTime": [""],
-      "assistenciasTime": [""],
-      "golsAdversario": [""],
-      "craqueJogo": "",
-      "descricao": ""
+      "data": "2025-01-16",
+      "adversario": "Brighton",
+      "casa": true,
+      "placar": "3-1",
+      "golsTime": ["Raphael Veiga", "Endrick", "Luis Guilherme"],
+      "assistenciasTime": ["Estevão (2x)"],
+      "golsAdversario": ["João Pedro"],
+      "craqueJogo": "Adingra",
+      "descricao": "O Palmeiras começou atrás no placar após João Pedro abrir o marcador para o Brighton, mas rapidamente reagiu com uma atuação madura e coletiva. Raphael Veiga empatou com um chute colocado e, em seguida, Endrick virou o jogo aproveitando um cruzamento preciso de Estevão — que estava inspirado. Luis Guilherme fechou o placar com estilo após outro cruzamento do camisa 10, selando a vitória com um golaço. O destaque do Brighton foi Adingra, que infernizou a defesa alviverde e foi eleito o melhor em campo. O técnico do Palmeiras ainda aproveitou para promover as estreias seguras de Vieira e Mancilla, duas promessas da base."
     },
+    {
+      "data": "2025-01-20",
+      "adversario": "Manchester City",
+      "casa": true,
+      "placar": "3-2",
+      "golsTime": ["Endrick", "Quinoñes (2x)"],
+      "assistenciasTime": ["Raphael Veiga (2x)"],
+      "golsAdversario": ["Haaland", "Phoden"],
+      "craqueJogo": "Quinoñes",
+      "descricao": "Em uma revanche eletrizante contra o Manchester City, o Palmeiras venceu por 3 a 2 no Allianz Parque. O City começou dominando e abriu o placar com Haaland. Veiga encontrou Endrick na entrada da área, que empatou com um chute colocado. No segundo tempo, o estreante Quinoñes entrou e virou o jogo em sua primeira finalização. Phoden empatou em seguida e o City voltou a dominar, mas nos acréscimos, Quinoñes aproveitou o rebote de um chute cara a cara e garantiu a vitória. Vitor Reis também estreou na zaga."
+    },    
     {
       "data": "2024-12-26",
       "adversario": "",
