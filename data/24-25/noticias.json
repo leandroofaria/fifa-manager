@@ -1,5 +1,68 @@
 [
-    {
+  {
+    "titulo": "Ataque engrena e Palmeiras goleia o Barrow por 5 a 2",
+    "conteudo": "O Palmeiras mostrou sinais de adaptação ao seu novo estilo de jogo e goleou o Barrow por 5 a 2 em casa. O ataque, que vinha sofrendo para converter posse em gols, voltou a brilhar com grande entrosamento. Endrick foi o destaque com dois gols e uma assistência, enquanto Estevão e Kevin também marcaram e serviram um ao outro. Até o zagueiro Rodgers deixou o dele, marcando em jogada de bola parada. Apesar da vitória, o zagueiro Vitor Reis ainda preocupa: mesmo titular absoluto, segue cometendo erros que comprometem o sistema defensivo.",
+    "autor": "ESPN",
+    "data": "2025-02-08",
+    "foto": "/fotos/24-25/time/goleada.jpg"
+  },
+  {
+    "titulo": "Endrick comanda vitória e é eleito o Melhor em Campo",
+    "conteudo": "Endrick foi novamente o protagonista da vitória do Palmeiras, desta vez contra o Barrow. Com dois gols marcados e uma assistência, o atacante mostrou por que é o principal nome do setor ofensivo do time. Participativo, criativo e letal nas finalizações, ele comandou o ritmo do ataque e foi eleito o Melhor em Campo com sobras.",
+    "autor": "Premier League",
+    "data": "2025-02-08",
+    "foto": "/fotos/24-25/endrick/craquejogo.jpg"
+  },  
+  {
+    "titulo": "Ramos brilha e garante vitória do Verdão",
+    "conteudo": "O goleiro Ramos foi o grande nome da partida contra o Southampton e eleito o Melhor em Campo. Com defesas impressionantes, ele salvou o Palmeiras em momentos cruciais e ainda defendeu um pênalti cobrado após falta de Vitor Reis. Sua atuação segura foi fundamental para segurar a vantagem mínima no placar e garantir os três pontos.",
+    "autor": "The Athletic",
+    "data": "2025-02-01",
+    "foto": "/fotos/24-25/ramos/craquejogo.jpg"
+  },
+  {
+    "titulo": "Vitória suada com atuação heroica de Ramos",
+    "conteudo": "O Palmeiras venceu o Southampton por 1 a 0 em casa, com gol de Estevão após bela assistência de Endrick. Apesar da vitória, o Verdão ofereceu muitas oportunidades ao adversário e contou com uma atuação heroica de Ramos para sair com os três pontos. O goleiro defendeu até pênalti, mantendo o time vivo em um jogo difícil. Vitor Reis, que cometeu o pênalti, teve uma atuação instável.",
+    "autor": "ESPN",
+    "data": "2025-02-01",
+    "foto": "/fotos/24-25/time/comemorando.jpg"
+  },
+  {
+    "titulo": "Nova proposta de jogo levanta dúvidas sobre o ataque",
+    "conteudo": "Com uma nova postura tática, o Palmeiras passou a ter mais controle de posse e domínio territorial, mas perdeu eficiência ofensiva. Contra o Southampton, o time criou menos chances claras e Endrick, referência no ataque, parecia perdido e desperdiçou boas oportunidades. A mudança gera discussões sobre equilíbrio entre controle e objetividade.",
+    "autor": "TNT Sports",
+    "data": "2025-02-01",
+    "foto": "/fotos/24-25/endrick/perdido.jpg"
+  },
+   {
+  "titulo": "Raphael Veiga lidera o ranking de assistências da temporada",
+  "conteudo": "Com 11 assistências em apenas 15 partidas, Raphael Veiga é o líder isolado no ranking de assistências da Premier League. Sua visão de jogo e precisão nos passes têm sido fundamentais para a criação ofensiva do Palmeiras. Mesmo nos jogos mais difíceis, o camisa 23 tem sido o elo entre meio e ataque, mostrando por que é considerado um dos melhores meias do campeonato.",
+  "autor": "Datafut",
+  "data": "2025-01-25",
+  "foto": "/fotos/24-25/veiga/assistencias.jpg"
+},
+{
+  "titulo": "Jota é eleito o Melhor em Campo contra o Palmeiras",
+  "conteudo": "O atacante Diogo Jota brilhou na vitória do Liverpool por 2 a 1 sobre o Palmeiras e foi eleito o Melhor em Campo. Com movimentação intensa e participação direta nas jogadas de ataque, ele foi decisivo para a construção do resultado, liderando o setor ofensivo da equipe inglesa com inteligência e velocidade.",
+  "autor": "Premier League",
+  "data": "2025-01-25",
+  "foto": "/fotos/24-25/liverpool/jota.jpg"
+},
+{
+  "titulo": "Derrota frustrante: Palmeiras perde para o Liverpool por 2 a 1",
+  "conteudo": "O Palmeiras até iniciou a partida com uma postura competitiva, mas no segundo tempo foi completamente dominado pelo Liverpool e acabou derrotado por 2 a 1 fora de casa. Endrick e Veiga não conseguiram repetir o bom desempenho de outros jogos e pouco apareceram. O gol do Verdão foi marcado por Kevin, que acertou um belo chute de fora da área. A equipe saiu de campo desorganizada e sem reação nos minutos finais.",
+  "autor": "ESPN",
+  "data": "2025-01-25",
+  "foto": "/fotos/24-25/time/frustrado.jpg"
+},
+{
+  "titulo": "Torcida se irrita com nova derrota para o Liverpool",
+  "conteudo": "Após ser goleado por 4 a 0 no primeiro turno, o Palmeiras voltou a perder para o Liverpool, desta vez por 2 a 1. A atuação apagada e a dificuldade de reação no segundo tempo deixaram a torcida alviverde frustrada. O time sofreu para competir em igualdade com os ingleses e acumulou mais um revés diante de um rival direto, acendendo o alerta no elenco e na comissão técnica.",
+  "autor": "TNT Sports",
+  "data": "2025-01-25",
+  "foto": "/fotos/24-25/time/protesto.jpg"
+},
+{
       "titulo": "Vitória suada e emocionante contra o City",
       "conteudo": "O Palmeiras venceu o Manchester City por 3 a 2 em casa em uma partida de tirar o fôlego. O City começou dominando e abriu o placar com Haaland. Raphael Veiga então apareceu para distribuir o jogo e achou Endrick com um passe na entrada da área — o camisa 9 chutou colocado e empatou. No segundo tempo, o estreante Quinoñes, recém-contratado por alguns milhões, entrou e logo marcou seu primeiro gol após enfiada por cima de Veiga. Phoden ainda empatou em seguida com um belo chute de fora da área e o City voltou a dominar completamente a partida. Mas nos acréscimos, em mais uma jogada iniciada por Veiga, Quinoñes recebeu cara a cara com o goleiro, parou na primeira, mas marcou no rebote e garantiu a vitória do Verdão. O jovem zagueiro Vitor Reis de 19 anos também fez sua estreia, e o clube saiu com a tão sonhada revanche do 1º turno.",
       "autor": "ESPN",

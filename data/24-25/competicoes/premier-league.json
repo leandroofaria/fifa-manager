@@ -246,6 +246,29 @@
       "descricao": "Em uma revanche eletrizante contra o Manchester City, o Palmeiras venceu por 3 a 2 no Allianz Parque. O City começou dominando e abriu o placar com Haaland. Veiga encontrou Endrick na entrada da área, que empatou com um chute colocado. No segundo tempo, o estreante Quinoñes entrou e virou o jogo em sua primeira finalização. Phoden empatou em seguida e o City voltou a dominar, mas nos acréscimos, Quinoñes aproveitou o rebote de um chute cara a cara e garantiu a vitória. Vitor Reis também estreou na zaga."
     },    
     {
+      "data": "2025-01-25",
+      "adversario": "Liverpool",
+      "casa": false,
+      "placar": "2-1",
+      "golsTime": ["Kevin"],
+      "assistenciasTime": [],
+      "golsAdversario": ["Diogo Jota (2x)"],
+      "craqueJogo": "Diogo Jota",
+      "descricao": "O Palmeiras perdeu por 2 a 1 para o Liverpool fora de casa em mais uma partida complicada contra os ingleses. Kevin marcou o único gol do Verdão com um belo chute de fora da área, mas Diogo Jota foi o grande nome do jogo, anotando dois gols e liderando o ataque dos Reds. Apesar de um primeiro tempo competitivo, o time paulista foi dominado no segundo tempo e não conseguiu reagir. A torcida se mostrou insatisfeita com o novo revés contra o mesmo adversário que havia goleado o Palmeiras por 4 a 0 no primeiro turno."
+    },
+    {
+      "data": "2025-02-01",
+      "adversario": "Southampton",
+      "casa": true,
+      "placar": "1-0",
+      "golsTime": ["Estevão"],
+      "assistenciasTime": ["Endrick"],
+      "golsAdversario": [],
+      "craqueJogo": "Ramos",
+      "descricao": "O Palmeiras venceu o Southampton por 1 a 0 em casa, em um jogo complicado e com forte presença do adversário no ataque. O gol solitário foi marcado por Estevão após assistência de Endrick, mas o destaque foi o goleiro Ramos, que fez defesas decisivas e ainda pegou um pênalti cobrado após falta cometida por Vitor Reis. A equipe teve domínio de posse, mas sofreu para converter esse controle em chances claras, levantando dúvidas sobre a nova proposta tática adotada."
+    },
+    
+    {
       "data": "2024-12-26",
       "adversario": "",
       "casa": false,
