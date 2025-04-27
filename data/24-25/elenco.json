@@ -433,7 +433,8 @@
   },
   {
     "nome": "Albert Richards",
-    "posicao": "Ponta Esquerda",
+    "posicao": "Ponta Direita"
+    ,
     "numero": 9,
     "idade": 29,
     "overall": 77,
@@ -448,35 +449,67 @@
     }
   },
   {
-    "nome": "",
-    "posicao": "",
-    "numero": 7,
-    "idade": 26,
-    "overall": 76,
+    "nome": "Julian Quiñones",
+    "posicao": "Atacante",
+    "numero": 22,
+    "idade": 28,
+    "overall": 80,
     "foto": "",
-    "descricao": "",
-    "desempenho": "",
+    "descricao": "Quiñones é um atacante colombiano de 28 anos que rapidamente se firmou como peça importante no elenco do Palmeiras. Com velocidade, explosão e grande presença de área, ele alia movimentação inteligente e frieza nas finalizações, sendo conhecido por sua capacidade de aparecer nos momentos decisivos. Estreando em grande estilo com gols importantes, Quiñones conquistou a confiança da comissão técnica e da torcida, trazendo equilíbrio ao jovem ataque alviverde. Sua experiência e oportunismo o tornaram uma referência silenciosa dentro do grupo, reforçando o setor ofensivo do Palmeiras para os grandes desafios da temporada.",
+    "desempenho": "Em sua primeira temporada pelo Palmeiras, Quiñones disputou 11 partidas oficiais, anotando 2 gols e distribuindo 2 assistências. Sua estreia foi marcante: diante do poderoso Manchester City, marcou dois gols e foi eleito 'Craque do Jogo', sendo decisivo na virada histórica no Allianz Parque. Mesmo com pouco tempo de adaptação, demonstrou faro de gol, personalidade e eficiência nas oportunidades criadas, se mostrando uma peça importante para o elenco em momentos de alta pressão. Quiñones já deixou claro que pode ser um diferencial ofensivo para o Verdão.",
+    "estatisticas": {
+      "gols": 2,
+      "assistencias": 2,
+      "jogos": "11",
+      "craqueDoJogo": 1
+    }
+  },
+  {
+    "nome": "Endrick",
+    "posicao": "Atacante",
+    "numero": 10,
+    "idade": 18,
+    "overall": 83,
+    "foto": "",
+    "descricao": "Endrick é o grande protagonista da temporada 2024/25 pelo Palmeiras. Mostrando uma maturidade e frieza impressionantes para sua idade, ele liderou o ataque alviverde com atuações memoráveis em todas as competições que disputou. Seu repertório técnico é completo: finalizações precisas, dribles curtos, capacidade de decisão em jogos grandes e uma presença física que impõe respeito mesmo diante de defesas mais experientes. Carregado de personalidade, Endrick assumiu a responsabilidade nos momentos decisivos e se consolidou como o principal nome do time, sendo peça fundamental na busca por vitórias e títulos. Combinando explosão física, frieza nas finalizações e presença constante nas jogadas ofensivas, Endrick se comporta como um veterano em campo, apesar da pouca idade. Sua capacidade de marcar gols, criar jogadas e decidir partidas o colocou não apenas como o principal destaque do Palmeiras, mas também como um dos grandes nomes da Premier League na temporada. Companheiros de equipe, como Raphael Veiga, elogiaram sua humildade e dedicação. Veiga destacou: 'O moleque é muito de boa, na dele, muito humilde. Trabalha muito e merece tudo o que está vivendo'. Endrick, por sua vez, descreve seu estilo de jogo com foco na persistência e entrega: 'Eu sempre vou lutar, vou ser persistente e tentar até o último minuto que estiver em campo. Eu nunca desisto, pressiono defensores, corro mais do que todo mundo no campo'.",
+    "desempenho": "Endrick teve uma temporada simplesmente absurda e histórica. Em 44 partidas oficiais, marcou impressionantes 62 gols, distribuiu 16 assistências e foi eleito craque do jogo em 20 oportunidades. Seu desempenho foi consistente tanto na Premier League quanto nas copas (Copa da Inglaterra e Carabao Cup), liderando o time em gols nas três competições. Dominando a artilharia, Endrick quebrou o recorde de gols em uma única edição da Premier League com 49 gols, consolidando-se como o jogador mais decisivo do elenco. Hat-tricks, gols em decisões e assistências em momentos-chave se tornaram rotina para o camisa 10, que foi fundamental em vitórias expressivas contra gigantes como Manchester United, Chelsea e Manchester City. Cada vez que entrava em campo, Endrick era uma ameaça constante para os adversários, protagonizando atuações de gala e reforçando seu status de fenômeno da temporada.",
+    "estatisticas": {
+      "gols": 62,
+      "assistencias": 16,
+      "jogos": "44",
+      "craqueDoJogo": 20
+    }
+  },
+  {
+    "nome": "Harvey Lewis",
+    "posicao": "Atacante",
+    "numero": 24,
+    "idade": 28,
+    "overall": 75,
+    "foto": "",
+    "descricao": "Lewis é um atacante de 28 anos que integrou o elenco do Palmeiras na temporada 2024/25 da Premier League. Apesar de ter recebido algumas oportunidades, teve uma passagem discreta e não conseguiu apresentar grandes resultados. Atuando principalmente ao lado de Endrick em momentos de recuperação do time, Lewis mostrou movimentação e inteligência tática, ajudando na manutenção da posse de bola. No entanto, nas poucas chances que teve, registrou apenas uma assistência, deixando sua contribuição mais voltada para o suporte coletivo do que para o protagonismo individual.",
+    "desempenho": "Durante a temporada 2024/25, Lewis teve uma participação discreta no time principal do Palmeiras. Atuando como atacante, ele foi utilizado em algumas partidas, especialmente no período de recuperação de Endrick, mas não conseguiu se destacar nas poucas chances que teve. Apesar de ter contribuído com uma assistência na vitória sobre o Manchester United por 3 a 2 fora de casa, seu desempenho geral foi modesto, sem gols ou premiações individuais. Pela falta de impacto em campo, a tendência é que Lewis acabe se tornando uma peça negociável, devendo deixar o elenco na próxima janela de transferências.",
     "estatisticas": {
       "gols": 0,
-      "assistencias": 0,
-      "jogos": "18",
+      "assistencias": 1,
+      "jogos": "12",
       "craqueDoJogo": 0
     }
   },
   {
-    "nome": "",
-    "posicao": "",
-    "numero": 7,
-    "idade": 26,
-    "overall": 76,
+    "nome": "Oliver Dale",
+    "posicao": "Atacante",
+    "numero": 0,
+    "idade": 23,
+    "overall": 69,
     "foto": "",
-    "descricao": "",
-    "desempenho": "",
+    "descricao": "Atacante inglês de 23 anos que foi emprestado ao Venezia no começo da temporada.",
+    "desempenho": "Sem dados disponíveis.",
     "estatisticas": {
       "gols": 0,
       "assistencias": 0,
-      "jogos": "18",
+      "jogos": "0",
       "craqueDoJogo": 0
     }
-  },
+  }
 ]
