@@ -1,5 +1,446 @@
 [
   {
+    "titulo": "Real Madrid conquista mais uma Champions League",
+    "conteudo": "O Real Madrid venceu o Manchester City por 2 a 1 e adicionou mais uma taça da Champions League ao seu recheado armário de troféus. No caminho até a final, os merengues eliminaram o Liverpool (5x3 no agregado nas oitavas), o Aston Villa (6x0 nas quartas) e o Arsenal (4x2 nas semifinais). Com um futebol sólido e decisivo, o Real reafirma seu domínio europeu.",
+    "autor": "UEFA",
+    "data": "2025-05-25",
+    "foto": "/fotos/24-25/real/titulo.jpg"
+  },
+  {
+    "titulo": "Ederson eleito o Melhor Goleiro da Premier League",
+    "conteudo": "Ederson, do Manchester City, foi eleito o Melhor Goleiro da Premier League. Com 10 jogos sem sofrer gols, o brasileiro se destacou pela consistência e pela liderança defensiva, sendo peça-chave na conquista do título pelo City.",
+    "autor": "Premier League",
+    "data": "2025-05-25",
+    "foto": "/fotos/24-25/city/ederson.jpg"
+  },
+  {
+    "titulo": "Time da Temporada da Premier League é anunciado",
+    "conteudo": "A Premier League divulgou o Time da Temporada. O ataque ficou com Endrick (Palmeiras) e Diogo Jota (Liverpool). Nas pontas, Grealish (Tottenham) e Saka (Arsenal). No meio, De Bruyne (Manchester City) e Rogers (Aston Villa). A defesa conta com Cucurella (Chelsea), Wan-Bissaka (West Ham), Gabriel Magalhães (Arsenal) e Schär (Newcastle), com Ederson (Manchester City) no gol.",
+    "autor": "Premier League",
+    "data": "2025-05-25",
+    "foto": "/fotos/24-25/premierleague/timedatemporada.jpg"
+  },
+  {
+    "titulo": "Endrick: Fenômeno da temporada",
+    "conteudo": "Endrick não apenas entrou para a Seleção da Temporada da Premier League como também quebrou o recorde de gols em uma única edição da liga. Com 39 gols e diversas assistências, o jovem atacante do Palmeiras foi peça central na campanha do clube, que terminou em terceiro lugar. Sua explosão, técnica e poder de decisão foram os grandes destaques individuais do campeonato.",
+    "autor": "ESPN",
+    "data": "2025-05-25",
+    "foto": "/fotos/24-25/endrick/recordista.jpg"
+  },
+  {
+    "titulo": "Haaland é eleito o Melhor Jogador da Premier League",
+    "conteudo": "Erling Haaland foi eleito o Melhor Jogador da Premier League 2024/25. Com atuações dominantes e gols decisivos pelo Manchester City, o atacante norueguês liderou a equipe à conquista do campeonato e consolidou sua posição como um dos melhores jogadores do mundo.",
+    "autor": "Premier League",
+    "data": "2025-05-25",
+    "foto": "/fotos/24-25/city/haaland.jpg"
+  },
+  {
+    "titulo": "Manchester City é campeão da Premier League",
+    "conteudo": "O Manchester City conquistou a Premier League em uma temporada extremamente disputada. O City terminou com 85 pontos, seguido pelo Arsenal (73 pontos) e pelo surpreendente Palmeiras (72 pontos), que fechou o pódio. Foi uma temporada de grandes jogos, emoção até o fim e disputas intensas tanto no topo quanto na zona de rebaixamento.",
+    "autor": "The Athletic",
+    "data": "2025-05-25",
+    "foto": "/fotos/24-25/city/campeao.jpg"
+  },
+  {
+    "titulo": "Leicester, Wolves e Southampton rebaixados na Premier League",
+    "conteudo": "O Leicester City, o Wolverhampton e o Southampton não resistiram e foram rebaixados ao final da temporada 2024/25. Após campanhas fracas e muitos tropeços, os clubes agora terão de disputar a Championship na próxima temporada.",
+    "autor": "Premier League",
+    "data": "2025-05-25",
+    "foto": "/fotos/24-25/premierleague/rebaixados.jpg"
+  },
+  {
+    "titulo": "Liverpool conquista a Copa da Inglaterra nos pênaltis",
+    "conteudo": "O Liverpool conquistou a Copa da Inglaterra após vencer o Leyton Orient nos pênaltis por 4 a 3, após empate no tempo normal. O time mostrou força mental e competência para confirmar o título e levantar mais um troféu na temporada.",
+    "autor": "FA Cup",
+    "data": "2025-05-25",
+    "foto": "/fotos/24-25/liverpool/campfa.jpg"
+  },
+  {
+    "titulo": "Empate em casa contra o West Ham",
+    "conteudo": "O Palmeiras empatou em 2 a 2 contra o West Ham em casa, em partida equilibrada. Mancilla abriu o placar após bela assistência de Endrick, enquanto o próprio Endrick marcou o segundo gol com passe de Estevão. Apesar do bom desempenho ofensivo, o Verdão sofreu na defesa e viu o adversário buscar o empate. A partida também serviu para testes: o técnico apostou em uma zaga jovem com Vitor Reis e Buthelezi, ambos de 18 anos. Destaque para Vitor Reis, que teve uma atuação sólida e mostra ser o futuro da defesa alviverde.",
+    "autor": "ESPN",
+    "data": "2025-05-15",
+    "foto": "/fotos/24-25/time/emocao.jpg"
+  },
+  {
+    "titulo": "Ferguson é eleito o Melhor em Campo",
+    "conteudo": "Mesmo fora de casa, Ferguson foi o grande destaque do empate entre West Ham e Palmeiras. O atacante foi responsável por grande parte das jogadas perigosas dos visitantes e teve participação direta nos gols da equipe inglesa. Com muita intensidade e inteligência tática, foi eleito o Melhor em Campo da partida.",
+    "autor": "Premier League",
+    "data": "2025-05-15",
+    "foto": "/fotos/24-25/westham/ferguson.jpg"
+  }
+  ,{
+    "titulo": "Palmeiras decepciona e empata em 4 a 4 com o rebaixado Leicester",
+    "conteudo": "O Palmeiras empatou vergonhosamente em 4 a 4 contra o já rebaixado Leicester City fora de casa. Era obrigação do Verdão vencer, mas a defesa comprometeu: no primeiro tempo, Garcia falhou em dois lances que resultaram em gols — depois foi descoberto que o lateral estava jogando lesionado. No segundo tempo, o Palmeiras reagiu. Endrick sofreu pênalti e converteu. Em seguida, marcou mais um gol após assistência de Mancilla, que também fez seu gol com assistência do próprio Endrick. Para completar a reação, Estevão também deixou o dele após bela jogada coletiva. Apesar do esforço ofensivo, a zaga continuou frágil e o Leicester, com gols de Dewsbury-Hall, Mavididi, Vardy e Justin, arrancou o empate nos minutos finais. Resultado frustrante para o Palmeiras.",
+    "autor": "ESPN",
+    "data": "2025-05-11",
+    "foto": "/fotos/24-25/time/frustrado.jpg"
+  },
+  {
+    "titulo": "Mavididi é eleito o Melhor em Campo",
+    "conteudo": "Apesar do empate movimentado em 4 a 4, o destaque individual da partida foi Mavididi, do Leicester City. Com velocidade e inteligência tática, ele infernizou a defesa do Palmeiras e ainda marcou um dos gols da equipe inglesa. Sua atuação consistente e agressiva lhe garantiu o prêmio de Melhor em Campo.",
+    "autor": "Premier League",
+    "data": "2025-05-11",
+    "foto": "/fotos/24-25/leicester/mavididi.jpg"
+  },
+  {
+    "titulo": "Palmeiras empata novamente com o Leicester na temporada",
+    "conteudo": "Assim como no primeiro turno, o Palmeiras voltou a empatar com o Leicester City, desta vez por 4 a 4. A equipe alviverde, que briga pelas primeiras posições da Premier League, desperdiçou mais uma oportunidade crucial de somar três pontos contra um adversário que ocupa as últimas posições na tabela. A torcida não perdoou e demonstrou insatisfação nas redes sociais.",
+    "autor": "TNT Sports",
+    "data": "2025-05-11",
+    "foto": "/fotos/24-25/time/protesto.jpg"
+  },
+  {
+    "titulo": "Vitória suada: Palmeiras vence o Brentford por 3 a 2",
+    "conteudo": "O Palmeiras venceu o Brentford por 3 a 2 em casa em uma partida emocionante. Estevão brilhou com dois gols, enquanto Endrick também deixou o dele. As assistências vieram de Mancilla, Endrick e Raphael Veiga, que ainda acertou dois chutes na trave em jogadas perigosas. Outro destaque foi o lateral direito Garcia, que começou como titular e impressionou pela firmeza na marcação e roubadas de bola.",
+    "autor": "ESPN",
+    "data": "2025-05-08",
+    "foto": "/fotos/24-25/time/comemorando.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo: Estevão decide e comanda vitória",
+    "conteudo": "Estevão foi eleito o Melhor em Campo na vitória contra o Brentford. Com dois gols marcados e movimentação intensa no ataque, a jovem estrela mostrou novamente por que é um dos jogadores mais decisivos do elenco. Sua atuação foi fundamental para garantir mais três pontos para o Verdão.",
+    "autor": "The Athletic",
+    "data": "2025-05-08",
+    "foto": "/fotos/24-25/estevao/craquejogo.jpg"
+  },
+  {
+    "titulo": "Palmeiras vence o Brentford nos dois turnos",
+    "conteudo": "O Palmeiras garantiu novamente a vitória sobre o Brentford, desta vez por 3 a 2, repetindo o domínio que já havia mostrado no primeiro turno, quando venceu por 5 a 1. As duas vitórias confirmam a superioridade alviverde no confronto direto nesta temporada.",
+    "autor": "Premier League",
+    "data": "2025-05-08",
+    "foto": "/fotos/24-25/time/uniao.jpg"
+  },
+  {
+    "titulo": "Novo futuro: Palmeiras promove três promessas da base",
+    "conteudo": "O Palmeiras oficializou a promoção de três jovens da base para o time principal: o goleiro brasileiro Fernandes, de apenas 17 anos, e os zagueiros africanos Buthelezi (17 anos) e Pereira (18 anos). A expectativa é que o trio reforce o futuro defensivo do Verdão, trazendo energia e qualidade para os próximos anos.",
+    "autor": "Fabrizio Romano",
+    "data": "2025-05-08",
+    "foto": "/fotos/24-25/base/promessas.jpg"
+  }
+  ,{
+    "titulo": "Fim da linha: Palmeiras é eliminado pelo Everton no Campeonato de Base",
+    "conteudo": "O sonho do tricampeonato da base acabou para o Palmeiras. Jogando pelas quartas de final contra o Everton, o Verdão foi derrotado por 1 a 0 em uma partida marcada por equilíbrio e frustração. O Palmeiras teve mais posse de bola e controlou boa parte do jogo, mas não conseguiu transformar o domínio em gols. O Everton aproveitou uma falha defensiva no segundo tempo para marcar o único gol da partida, em um contra-ataque rápido. Apesar da pressão nos minutos finais, o Verdão não conseguiu reagir e se despede da competição de forma amarga. Agora, a equipe foca na formação dos talentos para o futuro.",
+    "autor": "ESPN",
+    "data": "2025-05-05",
+    "foto": "/fotos/24-25/base/eliminacao.jpg"
+  },
+  {
+    "titulo": "Massacre em Liverpool: Palmeiras atropela o Everton por 4 a 1",
+    "conteudo": "O Palmeiras aplicou uma goleada contundente fora de casa ao vencer o Everton por 4 a 1 no Goodison Park. Apesar de sair atrás no placar, o Verdão reagiu rapidamente e virou com quatro gols de Endrick, duas assistências de Estevão e duas de Mancilla, a jovem promessa da base. O zagueiro Vitor Reis e o lateral-esquerdo também oriundo da base tiveram atuações sólidas, dando segurança à defesa. Uma vitória dominante e que mantém o time na briga no campeonato.",
+    "autor": "ESPN",
+    "data": "2025-05-02",
+    "foto": "/fotos/24-25/time/goleada.jpg"
+  },
+  {
+    "titulo": "Estevão brilha e lidera assistências na Premier League",
+    "conteudo": "Com duas assistências na vitória sobre o Everton, Estevão chegou a incríveis 15 assistências em 35 partidas, consolidando-se como líder isolado no quesito na Premier League. A joia do Palmeiras segue sendo uma peça-chave na criação de jogadas e se firma cada vez mais como uma das maiores promessas do futebol europeu.",
+    "autor": "Datafut",
+    "data": "2025-05-02",
+    "foto": "/fotos/24-25/estevao/assistencias.jpg"
+  },
+  {
+    "titulo": "Endrick comanda o show e é eleito o Melhor em Campo",
+    "conteudo": "Endrick foi absoluto na vitória do Palmeiras sobre o Everton. Com quatro gols marcados em uma atuação de gala, o atacante mostrou toda sua capacidade de decisão e frieza nas finalizações. Com presença constante no ataque, movimentação intensa e precisão cirúrgica, ele foi eleito com justiça o Melhor em Campo.",
+    "autor": "The Athletic",
+    "data": "2025-05-02",
+    "foto": "/fotos/24-25/endrick/craquejogo.jpg"
+  },
+  {
+    "titulo": "Derrota dolorosa: Palmeiras perde para o Newcastle nos minutos finais",
+    "conteudo": "O Palmeiras começou bem a partida, abrindo o placar com Endrick após assistência de Estevão. No entanto, o jogo rapidamente virou pressão total do Newcastle, que finalizou 18 vezes. O goleiro Ramos foi um dos destaques, realizando 16 defesas, mas não conseguiu evitar o empate aos 89 minutos. Para piorar, aos 92, Hassan falhou feio ao tentar cortar de cabeça, entregando o segundo gol para o rival. A zaga do Palmeiras, já criticada, voltou a mostrar fragilidade em um momento crucial da temporada.",
+    "autor": "ESPN",
+    "data": "2025-04-20",
+    "foto": "/fotos/24-25/time/frustrado.jpg"
+  },
+  {
+    "titulo": "Palmeiras vê classificação para a Champions League ameaçada",
+    "conteudo": "Com a derrota para o Newcastle, o Palmeiras corre sério risco de ficar fora da próxima edição da Champions League. A equipe, que chegou a estar perto do G4, viu adversários diretos se aproximarem e agora cada ponto se tornou vital. A torcida cobra mudanças imediatas, especialmente na defesa, que tem sido o ponto fraco da equipe nas partidas decisivas.",
+    "autor": "TNT Sports",
+    "data": "2025-04-20",
+    "foto": "/fotos/24-25/time/pressao.jpg"
+  },
+  {
+    "titulo": "Gordon brilha e é eleito o Melhor em Campo",
+    "conteudo": "Anthony Gordon foi o herói do Newcastle na vitória sobre o Palmeiras, marcando o gol da virada nos acréscimos. Com velocidade, movimentação intensa e oportunismo, Gordon foi decisivo no momento mais dramático da partida e deixou sua marca em uma atuação inesquecível para a torcida inglesa.",
+    "autor": "Premier League",
+    "data": "2025-04-20",
+    "foto": "/fotos/24-25/newcastle/gordon.jpg"
+  },
+  {
+    "titulo": "Torcida do Palmeiras irritada após nova derrota para o Newcastle",
+    "conteudo": "Pela segunda vez na temporada, o Palmeiras perdeu para o Newcastle — primeiro por 4 a 3 e agora por 2 a 1. A sequência de derrotas para o mesmo adversário gerou forte insatisfação entre os torcedores, que criticam principalmente a falta de segurança defensiva e a insistência em jogadores que não têm correspondido em campo, como o zagueiro Hassan.",
+    "autor": "The Athletic",
+    "data": "2025-04-20",
+    "foto": "/fotos/24-25/time/protesto.jpg"
+  },
+  {
+    "titulo": "Palmeiras busca empate contra o Arsenal em jogo tenso",
+    "conteudo": "Em casa, o Palmeiras empatou com o Arsenal por 2 a 2 após sair perdendo por dois gols. Gabriel Jesus abriu o placar para os visitantes, seguido de um golaço de Odegaard. Estevão iniciou a reação com um gol após assistência de Kristensen. Aos 80 minutos, o lateral cruzou rasteiro para Mancilla, que havia acabado de entrar e empatou a partida. Endrick teve a chance da virada aos 87, mas desperdiçou mais uma de suas três boas oportunidades no jogo. A ausência de Raphael Veiga foi sentida na criação ofensiva.",
+    "autor": "ESPN",
+    "data": "2025-04-18",
+    "foto": "/fotos/24-25/time/emcampo.jpg"
+  },
+  {
+    "titulo": "Estevão é o Melhor em Campo contra o Arsenal",
+    "conteudo": "O jovem Estevão foi eleito o Melhor em Campo no empate contra o Arsenal. Com um gol e uma assistência, o ponta foi o principal motor do ataque do Palmeiras. Sua movimentação, visão de jogo e protagonismo ofensivo foram decisivos para evitar uma derrota em casa.",
+    "autor": "Premier League",
+    "data": "2025-04-18",
+    "foto": "/fotos/24-25/estevao/craquejogo.jpg"
+  },
+  {
+    "titulo": "Palmeiras vence no primeiro, empata no segundo turno contra o Arsenal",
+    "conteudo": "No primeiro turno, o Palmeiras saiu com a vitória por 3 a 2 sobre o Arsenal. No reencontro, em casa, teve que se contentar com um empate em 2 a 2. Mesmo com boa reação, o Verdão desperdiçou chances valiosas, especialmente com Endrick, e viu os três pontos escaparem.",
+    "autor": "The Athletic",
+    "data": "2025-04-18",
+    "foto": "/fotos/24-25/arsenal/empate.jpg"
+  },
+  {
+    "titulo": "Mancilla entra e salva o Palmeiras com gol decisivo",
+    "conteudo": "A joia da base Mancilla voltou a mostrar seu valor. Entrando aos 75 minutos da segunda etapa, o ponta-esquerda aproveitou cruzamento rasteiro de Estevão e marcou o gol de empate diante do Arsenal. A frieza e o posicionamento do garoto renderam elogios da comissão técnica e mostram que o futuro do Palmeiras passa por seus pés.",
+    "autor": "Fabrizio Romano",
+    "data": "2025-04-18",
+    "foto": "/fotos/24-25/mancilla/gol.jpg"
+  }
+  ,{
+    "titulo": "Palmeiras atropela Chelsea fora de casa",
+    "conteudo": "Em uma das grandes atuações da temporada, o Palmeiras venceu o Chelsea por 5 a 2 em Londres. Endrick brilhou com um hat-trick e uma assistência, Estevão marcou e deu passe para gol, e Mancilla abriu o placar após assistência de De Angelis e também serviu Endrick. Apesar dos dois gols sofridos por falhas do goleiro Ramos, o Verdão dominou a partida. Raphael Veiga, no entanto, foi expulso por uma entrada dura e será desfalque no próximo jogo.",
+    "autor": "ESPN",
+    "data": "2025-04-13",
+    "foto": "/fotos/24-25/time/comemorando.jpg"
+  },
+  {
+    "titulo": "Hat-trick e assistência: Endrick comanda vitória sobre o Chelsea",
+    "conteudo": "Endrick foi o grande nome na vitória do Palmeiras por 5 a 2 contra o Chelsea. Com três gols e uma assistência, o atacante mostrou mais uma vez por que é o principal destaque da temporada. Rápido, decisivo e com faro de gol, Endrick foi eleito o Melhor em Campo e segue ampliando sua artilharia histórica.",
+    "autor": "The Athletic",
+    "data": "2025-04-13",
+    "foto": "/fotos/24-25/endrick/craquejogo.jpg"
+  },
+  {
+    "titulo": "Revanche servida: Palmeiras devolve goleada ao Chelsea",
+    "conteudo": "Depois de ser derrotado por 3 a 1 no primeiro turno, o Palmeiras deu o troco no Chelsea com uma goleada por 5 a 2 em pleno Stamford Bridge. A vitória reafirma a evolução do time e o bom momento de seus jovens jogadores, especialmente Endrick e Estevão.",
+    "autor": "TNT Sports",
+    "data": "2025-04-13",
+    "foto": "/fotos/24-25/time/revanche.jpg"
+  },
+  {
+    "titulo": "Zagueiro Murilo é o novo reforço do Palmeiras",
+    "conteudo": "O Palmeiras confirmou a contratação do zagueiro Murilo, de 22 anos, do Nottingham Forest. O defensor chegará ao fim da temporada e é visto como peça importante para reforçar o setor que mais sofreu na primeira metade da Premier League. A expectativa é que Murilo brigue por titularidade já na pré-temporada.",
+    "autor": "Fabrizio Romano",
+    "data": "2025-04-13",
+    "foto": "/fotos/24-25/murilo/apresentacao.jpg"
+  }
+  ,{
+    "titulo": "Palmeiras vence o Wolves e segue em ascensão defensiva",
+    "conteudo": "O Palmeiras venceu o Wolverhampton por 3 a 0 em casa com uma atuação segura e dominante. Endrick abriu o placar e quebrou o recorde histórico de gols em uma única edição da Premier League com 39 gols. Raphael Veiga brilhou com um gol e uma assistência, sendo eleito o Melhor em Campo. Estevão também deixou o seu após cruzamento de Mancilla. A defesa, antes criticada, vem evoluindo bem e parte disso se deve ao crescimento do zagueiro Vitor Reis, que vive seu melhor momento na temporada.",
+    "autor": "ESPN",
+    "data": "2025-04-06",
+    "foto": "/fotos/24-25/time/comemorando.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo: Raphael Veiga comanda vitória",
+    "conteudo": "Raphael Veiga foi eleito o Melhor em Campo na vitória contra o Wolverhampton. O camisa 23 marcou um gol, deu uma assistência e comandou as ações ofensivas do Palmeiras com categoria e liderança. Sua regularidade e influência seguem sendo fundamentais no desempenho da equipe nesta reta final de temporada.",
+    "autor": "The Athletic",
+    "data": "2025-04-06",
+    "foto": "/fotos/24-25/veiga/craquejogo.jpg"
+  },
+  {
+    "titulo": "Repetindo o feito: Palmeiras vence o Wolves novamente",
+    "conteudo": "Assim como no primeiro turno, quando venceu por 2 a 1 fora de casa, o Palmeiras voltou a superar o Wolverhampton, desta vez por 3 a 0 diante de sua torcida. A vitória reafirma a consistência do Verdão diante dos adversários de meio de tabela e mostra evolução coletiva na reta decisiva da temporada.",
+    "autor": "TNT Sports",
+    "data": "2025-04-06",
+    "foto": "/fotos/24-25/time/uniao.jpg"
+  },
+  {
+    "titulo": "Histórico! Endrick quebra recorde de gols na Premier League",
+    "conteudo": "Com o gol marcado na vitória por 3 a 0 sobre o Wolverhampton, Endrick chegou a 39 gols na Premier League e quebrou o recorde de mais gols em uma única edição da competição. A jovem estrela do Palmeiras segue fazendo história e consolidando sua temporada como uma das maiores já vistas por um atacante na liga inglesa.",
+    "autor": "Datafut",
+    "data": "2025-04-06",
+    "foto": "/fotos/24-25/endrick/recorde.jpg"
+  },
+  {
+    "titulo": "Goleada histórica: Palmeiras vence o Bournemouth por 5 a 0",
+    "conteudo": "O Palmeiras atropelou o Bournemouth por 5 a 0 em casa, em uma das melhores atuações da temporada. Endrick foi o grande nome do jogo, marcando um hat-trick e alcançando a impressionante marca de 36 gols na Premier League, caminhando para quebrar o recorde histórico da competição. Kevin também brilhou, marcando um gol e dando uma assistência, enquanto Rafael Veiga e Quinoñes contribuíram com passes decisivos. O zagueiro Rodgers completou a goleada com um gol de cabeça. Uma atuação dominante do Verdão, que não deu chances ao adversário.",
+    "autor": "ESPN",
+    "data": "2025-04-01",
+    "foto": "/fotos/24-25/time/goleada.jpg"
+  },
+  {
+    "titulo": "Hat-trick e liderança: Endrick é o Melhor em Campo contra o Bournemouth",
+    "conteudo": "Endrick teve mais uma atuação de gala e foi eleito o Melhor em Campo na vitória por 5 a 0 sobre o Bournemouth. Com três gols marcados, ele mostrou sua eficiência, mobilidade e faro de gol. Além disso, alcançou a marca de 36 gols no campeonato, reforçando sua posição como artilheiro isolado da temporada. Um desempenho de craque.",
+    "autor": "The Athletic",
+    "data": "2025-04-01",
+    "foto": "/fotos/24-25/endrick/craquejogo.jpg"
+  },
+  {
+    "titulo": "Palmeiras repete superioridade sobre o Bournemouth",
+    "conteudo": "No primeiro turno, o Palmeiras venceu o Bournemouth por 3 a 1. No retorno, não foi diferente — ou melhor, foi ainda mais dominante. Com um 5 a 0 incontestável, o Verdão mostrou sua evolução ao longo da temporada e deixou claro que a diferença entre as equipes cresceu. O resultado reforça a força ofensiva da equipe e sua consistência no campeonato.",
+    "autor": "Premier League",
+    "data": "2025-04-01",
+    "foto": "/fotos/24-25/time/comemorando.jpg"
+  },
+  {
+    "titulo": "Chelsea conquista a Carabao Cup em clássico eletrizante contra o Arsenal",
+    "conteudo": "Em uma final digna de clássico, o Chelsea venceu o Arsenal por 3 a 2 e conquistou a Carabao Cup em Wembley. O jogo foi movimentado do início ao fim. O Chelsea abriu o placar logo aos 8 minutos com gol de Sterling após jogada individual de Cole Palmer. O Arsenal empatou ainda no primeiro tempo com Saka, que aproveitou rebote na área. Na volta do intervalo, Havertz virou o jogo com belo chute cruzado, mas a vantagem durou pouco: Nkunku empatou para o Chelsea em cobrança de falta perfeita. No apagar das luzes, aos 89 minutos, Gallagher invadiu a área, limpou a marcação e finalizou no canto, garantindo o título para os Blues. Foi o sexto título de Carabao Cup da história do clube.",
+    "autor": "Sky Sports",
+    "data": "2025-03-10",
+    "foto": "/fotos/finais/chelsea-campeao.jpg"
+  },
+  {
+    "titulo": "Empate com emoção: Palmeiras fica no 2x2 com o Nottingham Forest",
+    "conteudo": "Em casa, o Palmeiras empatou em 2 a 2 com o Nottingham Forest em uma partida que começou complicada. O time visitante abriu 2 a 0 no placar com gols de Richarlison e Hudson-Odoi, aproveitando falhas defensivas do Verdão. Mas o time da casa reagiu: Kevin marcou duas vezes, uma após passe de Danilo e outra nos minutos finais com assistência de Endrick. No último lance do jogo, De Angelis salvou o Palmeiras de levar o terceiro gol com uma falta decisiva, recebendo cartão vermelho. A torcida saiu aliviada, mas preocupada com o desempenho defensivo.",
+    "autor": "TNT Sports",
+    "data": "2025-03-10",
+    "foto": "/fotos/24-25/time/emocao.jpg"
+  },
+  {
+    "titulo": "Kevin decide e é eleito o Melhor em Campo contra o Forest",
+    "conteudo": "Com dois gols importantes, Kevin foi o grande nome do Palmeiras no empate por 2 a 2 com o Nottingham Forest. O atacante mostrou presença de área, oportunismo e foi peça-chave na reação do Verdão. Com o desempenho decisivo, foi eleito o Melhor em Campo da partida.",
+    "autor": "The Athletic",
+    "data": "2025-03-10",
+    "foto": "/fotos/24-25/kevin/craquejogo.jpg"
+  },
+  {
+    "titulo": "Raphael Veiga lidera o ranking de assistências da Premier League",
+    "conteudo": "Com 12 assistências em 21 partidas, Raphael Veiga é o líder isolado do campeonato no quesito. O camisa 23 do Palmeiras tem se destacado por sua regularidade e visão de jogo, sendo responsável por boa parte das chances criadas pelo time. Mesmo em partidas mais difíceis, ele mantém o alto nível e segue sendo um dos principais nomes da liga.",
+    "autor": "Datafut",
+    "data": "2025-03-10",
+    "foto": "/fotos/24-25/veiga/assistencias.jpg"
+  },
+  {
+    "titulo": "Palmeiras renova com zagueiros Hassan e Rodgers, e torcida questiona decisão",
+    "conteudo": "O Palmeiras oficializou nesta semana a renovação de contrato dos zagueiros Hassan e Declan Rodgers. A decisão, no entanto, gerou controvérsia entre os torcedores, já que ambos vêm sendo duramente criticados pelas atuações abaixo do esperado durante a temporada. Com falhas recorrentes e dificuldades de posicionamento, a dupla tem sido apontada como um dos principais motivos para o alto número de gols sofridos — o Verdão, até o momento, é o time mais vazado da Premier League. Nas redes sociais, muitos torcedores expressaram insatisfação com a escolha da diretoria, que segue apostando em jogadores que não têm correspondido dentro de campo.",
+    "autor": "ESPN",
+    "data": "2025-03-09",
+    "foto": "/fotos/24-25/defesa/criticada.jpg"
+  },
+  {
+    "titulo": "Palmeiras vence Crystal Palace por 4 a 3 em jogo eletrizante",
+    "conteudo": "Em uma partida cheia de reviravoltas, o Palmeiras venceu o Crystal Palace por 4 a 3 em casa. O time londrino saiu na frente com dois gols, mas Raphael Veiga iniciou a reação convertendo um pênalti sofrido por Endrick e marcando um golaço de falta. Em seguida, Endrick deu assistência para Kevin virar o placar, e o próprio camisa 9 fez o quarto gol após cruzamento de Kristensen. O Palace ainda diminuiu no final, mas o Verdão segurou a vitória.",
+    "autor": "ESPN",
+    "data": "2025-03-08",
+    "foto": "/fotos/24-25/time/comemorando.jpg"
+  },
+  {
+    "titulo": "Endrick é eleito o Melhor em Campo contra o Palace",
+    "conteudo": "Com um gol marcado e uma assistência, Endrick brilhou mais uma vez e foi eleito o Melhor em Campo na vitória sobre o Crystal Palace. O atacante mostrou liderança, participou das principais jogadas ofensivas e foi fundamental para a construção do resultado. Sua entrega e precisão seguem sendo pilares do ataque alviverde.",
+    "autor": "Premier League",
+    "data": "2025-03-08",
+    "foto": "/fotos/24-25/endrick/craquejogo.jpg"
+  },
+  {
+    "titulo": "Veiga decisivo com bola parada",
+    "conteudo": "Raphael Veiga teve mais uma atuação de luxo: marcou um golaço de falta e ainda converteu pênalti com categoria. Foi fundamental na virada palmeirense contra o Crystal Palace e reafirma seu papel como o cérebro do meio-campo. Técnica e frieza fazem do camisa 23 um dos jogadores mais consistentes do elenco.",
+    "autor": "The Athletic",
+    "data": "2025-03-08",
+    "foto": "/fotos/24-25/veiga/falta.jpg"
+  },
+  {
+    "titulo": "Palmeiras vence Crystal Palace nos dois turnos",
+    "conteudo": "O Palmeiras manteve a superioridade diante do Crystal Palace na temporada. Após vencer por 3 a 2 no primeiro turno, o Verdão repetiu a dose no segundo, com um emocionante 4 a 3. Os seis pontos conquistados em confrontos diretos mostram a consistência da equipe contra adversários do meio da tabela.",
+    "autor": "TNT Sports",
+    "data": "2025-03-08",
+    "foto": "/fotos/24-25/time/contra-palace.jpg"
+  },
+  {
+    "titulo": "Fim da linha na Copa da Inglaterra: Palmeiras é eliminado pelo Chelsea",
+    "conteudo": "O Palmeiras deu adeus à Copa da Inglaterra após uma derrota por 4 a 2 para o Chelsea fora de casa, no dia 2 de março. A equipe começou bem, com Endrick abrindo o placar após assistência de Raphael Veiga. Porém, o Chelsea empatou e virou o jogo ainda no tempo normal. Endrick voltou a brilhar e empatou novamente após belo passe de Quinoñes, levando a partida para a prorrogação. No tempo extra, o desgaste físico ficou evidente, e a defesa, desorganizada e exausta, sofreu mais dois gols que decretaram a eliminação. Apesar da derrota, o jovem zagueiro Vitor Reis teve sua melhor atuação pelo profissional, enquanto seus companheiros de defesa, Rodgers e Hassan, deixaram a desejar. O Verdão agora volta suas atenções para a Premier League, em busca de redenção.",
+    "autor": "ESPN",
+    "data": "2025-03-02",
+    "foto": "/fotos/24-25/time/eliminado.jpg"
+  },
+  {
+    "titulo": "Endrick é o Melhor em Campo mesmo com eliminação",
+    "conteudo": "Mesmo com a eliminação na Copa da Inglaterra, Endrick foi eleito o Melhor em Campo na derrota por 4 a 2 contra o Chelsea. Com dois gols decisivos, o atacante foi o motor ofensivo do Palmeiras, chamando a responsabilidade e lutando até o fim. Sua movimentação, finalizações precisas e presença em momentos chave mostraram, mais uma vez, por que é o grande destaque da equipe.",
+    "autor": "Premier League",
+    "data": "2025-03-02",
+    "foto": "/fotos/24-25/endrick/craquejogo.jpg"
+  },
+  {
+    "titulo": "Endrick é eleito o Jogador do Mês de Fevereiro",
+    "conteudo": "Endrick foi coroado como o Jogador do Mês de Fevereiro na Premier League. Com atuações decisivas, o atacante marcou gols importantes em quase todos os jogos. Foram 8 gols e 3 assistências em 5 partidas no mês, incluindo: dois gols contra o Barrow, dois na vitória eletrizante contra o Aston Villa, mais dois diante do Chelsea pela Copa da Inglaterra, além de participações diretas nas vitórias sobre Manchester United e Southampton. Com essa performance avassaladora, Endrick não apenas ajudou o Palmeiras a se manter forte na liga, como reafirmou seu favoritismo na briga pelo recorde de gols na temporada.",
+    "autor": "Datafut",
+    "data": "2025-03-02",
+    "foto": "/fotos/24-25/endrick/jogadordomes.jpg"
+  },
+  {
+    "titulo": "Palmeiras conquista o título da Copa da Base com virada na final",
+    "conteudo": "O Palmeiras sagrou-se campeão da Copa da Base após uma campanha impressionante marcada por talento e personalidade. Nas quartas de final, o Verdão venceu o Leicester City por 4 a 1 com show de Yago Ortiz, autor de três gols e eleito o melhor em campo. Na semifinal, foi a vez do goleiro Hugo Amaral brilhar — com defesas decisivas, ele garantiu o 2 a 0 sobre o Brentford, partida em que Ortiz voltou a marcar duas vezes. Já na grande final contra o Southampton, o time sofreu. O adversário dominou a posse de bola por boa parte do confronto e saiu na frente, mas o Palmeiras reagiu com maturidade e virou para 2 a 1, com duas assistências de Yago Ortiz e atuação decisiva do meia José Velázquez, eleito o melhor em campo. A equipe mostrou equilíbrio entre segurança defensiva e eficiência ofensiva, consolidando o título com uma geração promissora.",
+    "autor": "TNT Sports",
+    "data": "2025-03-01",
+    "foto": "/fotos/base/palmeiras-campeao.jpg"
+  },
+  {
+  "titulo": "Massacre em Old Trafford: Palmeiras goleia por 4 a 0",
+  "conteudo": "O Palmeiras deu um show contra o Manchester United fora de casa e venceu por 4 a 0 em uma atuação impecável. Endrick foi o grande destaque com um gol e duas assistências. Raphael Veiga converteu um pênalti sofrido por Endrick, Mancilla — recém-promovido da base — marcou seu primeiro gol pelo profissional, e Kevin fechou o placar com assistência de Luis Guilherme. A partida foi um domínio completo do Verdão do início ao fim.",
+  "autor": "ESPN",
+  "data": "2025-02-26",
+  "foto": "/fotos/24-25/time/goleada.jpg"
+},
+{
+  "titulo": "Primeiro gol de Mancilla pelo profissional",
+  "conteudo": "O jovem ponta Mancilla, recém-promovido da base do Palmeiras, não precisou de muito tempo para brilhar. No duelo contra o Manchester United, ele marcou seu primeiro gol como profissional em uma goleada histórica por 4 a 0. A joia da base mostrou personalidade e eficiência, dando sinais de que pode ganhar espaço no elenco principal.",
+  "autor": "Fabrizio Romano",
+  "data": "2025-02-26",
+  "foto": "/fotos/24-25/mancilla/gol.jpg"
+},
+{
+  "titulo": "Endrick é eleito o Melhor em Campo",
+  "conteudo": "Com um gol marcado e duas assistências distribuídas, Endrick comandou a goleada do Palmeiras sobre o Manchester United por 4 a 0. O camisa 9 sofreu o pênalti convertido por Veiga e participou ativamente de todas as jogadas ofensivas da equipe. Pela liderança, técnica e decisão, foi eleito com justiça o Melhor em Campo.",
+  "autor": "Premier League",
+  "data": "2025-02-26",
+  "foto": "/fotos/24-25/endrick/craquejogo.jpg"
+},
+{
+  "titulo": "Palmeiras vence Manchester United nos dois turnos",
+  "conteudo": "Assim como no primeiro turno, quando venceu por 3 a 2, o Palmeiras voltou a superar o Manchester United — desta vez com autoridade: 4 a 0 fora de casa. A consistência nos dois confrontos diretos mostra o crescimento da equipe e sua capacidade de competir em alto nível contra os gigantes da liga.",
+  "autor": "The Athletic",
+  "data": "2025-02-26",
+  "foto": "/fotos/24-25/time/comemorando.jpg"
+},
+  {
+    "titulo": "Palmeiras sofre goleada histórica para o Tottenham no Allianz",
+    "conteudo": "O Palmeiras foi atropelado pelo Tottenham por 6 a 2 em pleno Allianz Parque, em uma das piores atuações da equipe na temporada. O time começou com suas promessas nas laterais, que até iniciaram bem, mas não conseguiram manter o nível e foram facilmente superadas. Mesmo com as substituições feitas pelo técnico, a defesa permaneceu desorganizada e vulnerável. O Tottenham aproveitou as falhas com intensidade, e Grealish marcou três vezes. A derrota foi marcada por uma postura apática do time, que pareceu perdido em campo durante grande parte da partida.",
+    "autor": "TNT Sports",
+    "data": "2025-02-22",
+    "foto": "/fotos/24-25/time/frustrado.jpg"
+  },
+  {
+    "titulo": "Solanke é o nome da partida em massacre contra o Palmeiras",
+    "conteudo": "O atacante Solanke foi eleito o Melhor em Campo na vitória do Tottenham por 6 a 2 sobre o Palmeiras. Participativo, criativo e perigoso durante os 90 minutos, ele desequilibrou o confronto e teve papel fundamental para a construção do placar elástico. Enquanto Grealish chamou a atenção com três gols, foi Solanke quem organizou o ataque, pressionou a defesa palmeirense e distribuiu o jogo com inteligência. Uma atuação de gala que fez o Allianz Parque assistir a um show londrino.",
+    "autor": "Premier League",
+    "data": "2025-02-22",
+    "foto": "/fotos/24-25/tottenham/solanke.jpg"
+  },
+  {
+    "titulo": "Torcida alviverde se irrita com nova goleada sofrida para o Tottenham",
+    "conteudo": "A derrota por 6 a 2 para o Tottenham não foi apenas mais um tropeço. Ela simbolizou a repetição de um problema: o Palmeiras voltou a ser superado pelo rival inglês, como já havia ocorrido no primeiro turno (4 a 2). A torcida não perdoou a falta de reação da equipe, que mesmo jogando em casa não conseguiu competir. As falhas defensivas, a apatia no meio de campo e o descontrole emocional geraram críticas pesadas nas arquibancadas e redes sociais. Com duas goleadas sofridas para o mesmo adversário, a cobrança por mudanças aumenta.",
+    "autor": "ESPN",
+    "data": "2025-02-22",
+    "foto": "/fotos/24-25/torcida/protesto.jpg"
+  },
+  {
+    "titulo": "Vitória eletrizante contra o Aston Villa empolga torcida",
+    "conteudo": "Em um dos jogos mais emocionantes da temporada, o Palmeiras venceu o Aston Villa por 3 a 2 nos minutos finais e diminuiu a distância para o rival direto na tabela da Premier League. O primeiro tempo foi truncado e sem gols, com o Aston Villa pressionando bastante. Mas no segundo tempo, o Verdão brilhou: Veiga lançou Endrick, que abriu o placar com um golaço. Na sequência, Endrick driblou a zaga e serviu Veiga, que finalizou com precisão e fez 2 a 0. Porém, Watkins entrou e empatou o jogo com dois gols seguidos, já perto dos 90 minutos. Quando tudo parecia definido, Quinoñes arrancou pela esquerda e cruzou rasteiro para Endrick, que empurrou para o gol e garantiu a vitória no último lance. A torcida explodiu no Allianz, comemorando não só os 3 pontos, mas também a chance real de ultrapassar o Aston Villa na tabela.",
+    "autor": "ESPN",
+    "data": "2025-02-15",
+    "foto": "/fotos/24-25/time/comemorando.jpg"
+  },
+  {
+    "titulo": "Endrick a um passo do recorde histórico",
+    "conteudo": "Com 29 gols em 25 partidas, Endrick está cada vez mais próximo de quebrar o recorde de gols em uma única edição da Premier League. O jovem atacante do Palmeiras segue em ritmo avassalador, combinando potência, inteligência e faro de gol. Sua consistência impressiona e já coloca seu nome entre os grandes da temporada.",
+    "autor": "Datafut",
+    "data": "2025-02-15",
+    "foto": "/fotos/24-25/endrick/recorde.jpg"
+  },
+  {
+    "titulo": "Melhor em Campo: Endrick decide mais uma vez",
+    "conteudo": "Endrick brilhou na vitória contra o Aston Villa e foi eleito o Melhor em Campo. Com dois gols e uma assistência, o atacante foi decisivo nos momentos-chave da partida. Sua frieza no lance final, quando empurrou a bola para as redes no último minuto, coroou uma atuação de alto nível. Endrick segue sendo o grande nome da temporada do Verdão.",
+    "autor": "Premier League",
+    "data": "2025-02-15",
+    "foto": "/fotos/24-25/endrick/craquejogo.jpg"
+  },
+  {
     "titulo": "Ataque engrena e Palmeiras goleia o Barrow por 5 a 2",
     "conteudo": "O Palmeiras mostrou sinais de adaptação ao seu novo estilo de jogo e goleou o Barrow por 5 a 2 em casa. O ataque, que vinha sofrendo para converter posse em gols, voltou a brilhar com grande entrosamento. Endrick foi o destaque com dois gols e uma assistência, enquanto Estevão e Kevin também marcaram e serviram um ao outro. Até o zagueiro Rodgers deixou o dele, marcando em jogada de bola parada. Apesar da vitória, o zagueiro Vitor Reis ainda preocupa: mesmo titular absoluto, segue cometendo erros que comprometem o sistema defensivo.",
     "autor": "ESPN",

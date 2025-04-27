@@ -1,115 +1,482 @@
 [
-    {
-      "nome": "Endrick",
-      "posicao": "Atacante",
-      "numero": 10,
-      "idade": 18,
-      "overall": 85,
-      "foto": "",
-      "estatisticas": {
-        "gols": 3,
-        "assistencias": 1,
-        "jogos": 4,
-        "craqueDoJogo": 0,
-        "defesas": 0,
-        "golsSofridos": 0
-      }
-    },
-    {
-      "nome": "Estevao",
-      "posicao": "Ponta Direita",
-      "numero": 121,
-      "idade": null,
-      "overall": null,
-      "foto": "",
-      "estatisticas": {
-        "gols": 1,
-        "assistencias": 1,
-        "jogos": 4,
-        "craqueDoJogo": 1,
-        "defesas": 0,
-        "golsSofridos": 0
-      }
-    },
-    {
-      "nome": "Estevao",
-      "posicao": "Ponta Direita",
-      "numero": null,
-      "idade": null,
-      "overall": null,
-      "foto": "",
-      "estatisticas": {
-        "gols": 1,
-        "assistencias": 1,
-        "jogos": 4,
-        "craqueDoJogo": 0,
-        "defesas": 0,
-        "golsSofridos": 0
-      }
-    },
-    {
-      "nome": "Kevin",
-      "posicao": "Ponta Esquerda",
-      "numero": null,
-      "idade": null,
-      "overall": null,
-      "foto": "",
-      "estatisticas": {
-        "gols": 1,
-        "assistencias": 1,
-        "jogos": 4,
-        "craqueDoJogo": 0,
-        "defesas": 0,
-        "golsSofridos": 0
-      }
-    },
-    {
-      "nome": "Danilo",
-      "posicao": "Meio Campo",
-      "numero": null,
-      "idade": null,
-      "overall": null,
-      "foto": "",
-      "estatisticas": {
-        "gols": 0,
-        "assistencias": 1,
-        "jogos": 4,
-        "craqueDoJogo": 0,
-        "defesas": 0,
-        "golsSofridos": 0
-      }
-    },
-    {
-      "nome": "Evan Maloney",
-      "posicao": "Meio Campo",
-      "numero": null,
-      "idade": null,
-      "overall": null,
-      "foto": "",
-      "estatisticas": {
-        "gols": 0,
-        "assistencias": 1,
-        "jogos": 4,
-        "craqueDoJogo": 0,
-        "defesas": 0,
-        "golsSofridos": 0
-      }
-    },
-    {
-      "nome": "Diego Ramos",
-      "posicao": "Goleiro",
-      "numero": 1,
-      "idade": 25,
-      "overall": 76,
-      "foto": "",
-      "estatisticas": {
-        "gols": 0,
-        "assistencias": 0,
-        "jogos": 4,
-        "craqueDoJogo": 1,
-        "defesas": 0,
-        "golsSofridos": 0
-      }
+  {
+    "nome": "Diego Ramos",
+    "posicao": "Goleiro",
+    "numero": 1,
+    "idade": 26,
+    "overall": 80,
+    "foto": "",
+    "descricao": "Ramos é o goleiro do Palmeiras conhecido por sua resiliência, frieza sob pressão e atuações heróicas nos momentos mais críticos da temporada 2024/25. Discreto fora dos holofotes, dentro de campo ele se transforma em um líder silencioso, inspirando confiança apenas com sua postura firme e suas ações decisivas. Em um time que sofreu com instabilidade defensiva ao longo do ano, Ramos emergiu como o principal pilar de segurança, sendo o responsável por manter o Palmeiras vivo em partidas onde a defesa vacilava. Sua mentalidade de guerreiro se reflete nas defesas milagrosas, nos pênaltis defendidos e na calma absoluta em meio ao caos. Quando seus companheiros desmoronavam sob pressão, Ramos permanecia frio, fechando o gol e sustentando a esperança do time até o último minuto. Seu desempenho foi decisivo em jogos apertados contra adversários como Southampton e Newcastle, onde foi eleito Melhor em Campo graças à sua atuação brilhante. Fora de campo, Ramos é reservado, disciplinado e extremamente profissional, priorizando sempre o desempenho coletivo acima dos holofotes individuais. Sua consistência e sua capacidade de crescer nas adversidades consolidaram seu nome como peça fundamental na campanha do Palmeiras, sendo reconhecido como um dos jogadores mais importantes da equipe na temporada.",
+    "desempenho": "Nesta temporada, Ramos se consolidou como um dos pilares silenciosos do Palmeiras. Apesar dos altos e baixos da equipe, principalmente nas atuações defensivas, o goleiro mostrou regularidade e foi fundamental em momentos críticos. Em jogos importantes, Ramos teve atuações memoráveis: foi eleito Melhor em Campo na vitória apertada contra o Southampton, quando defendeu até pênalti, garantindo três pontos em um jogo em que o Verdão sofreu muita pressão. Em outras partidas, como na derrota para o Newcastle, mesmo com o resultado negativo, brilhou com 16 defesas — uma das maiores marcas individuais da liga na temporada. Contra o Bournemouth, Crystal Palace e Fulham, suas defesas decisivas foram citadas como fatores determinantes para o Palmeiras sair com bons resultados. A imprensa e a torcida chegaram a reconhecer que, sem Ramos, o time poderia ter tido uma campanha ainda mais irregular. Mesmo em meio a críticas ao sistema defensivo como um todo, Ramos foi uma constante de segurança e confiança, mostrando elasticidade, boa leitura de jogo e liderança. Sua temporada 2024/25 não só elevou seu status no elenco como também o colocou entre os goleiros mais respeitados da Premier League no ano.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "44",
+      "craqueDoJogo": 3
     }
-  ]
-  
+  },
+  {
+    "nome": "Karlsson",
+    "posicao": "Goleiro",
+    "numero": 23,
+    "idade": 27,
+    "overall": 69,
+    "foto": "",
+    "descricao": "Goleiro reserva que nunca teve chances de atuar pelo time principal.",
+    "desempenho": "Não chegou a ser relacionado para partidas oficiais durante a temporada.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "0",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Eduardo Fernandes",
+    "posicao": "Goleiro",
+    "numero": 12,
+    "idade": 17,
+    "overall": 62,
+    "foto": "",
+    "descricao": "Promessa da base, visto como o futuro titular do gol palmeirense.",
+    "desempenho": "Promovido da base nesta temporada, ainda não estreou, mas é tratado internamente como grande esperança para o futuro.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "0",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "De Angelis",
+    "posicao": "Lateral Esquerdo",
+    "numero": 5,
+    "idade": 25,
+    "overall": 74,
+    "foto": "",
+    "descricao": "De Angelis é um jovem jogador do Palmeiras que se destaca pela entrega e espírito de luta dentro de campo. Atuando principalmente na defesa, ele é reconhecido por sua dedicação e comprometimento nos momentos decisivos. Mesmo não sendo o nome mais midiático do elenco, seu papel tático e sua disciplina têm sido fundamentais para o equilíbrio da equipe em jogos importantes. Conhecido pelo grupo como um 'operário silencioso', De Angelis é sério, focado e extremamente determinado, colocando sempre o coletivo acima das ambições pessoais.",
+    "desempenho": "Durante a temporada 2024/25, De Angelis se destacou pela entrega, responsabilidade e comprometimento nos momentos mais críticos. Embora tenha tido participações discretas no setor ofensivo, com poucas assistências, sua contribuição foi fundamental para o equilíbrio defensivo do Palmeiras. Um dos exemplos mais marcantes foi na partida contra o Nottingham Forest, quando, mesmo sob pressão, evitou um gol certo no último lance ao cometer uma falta estratégica, recebendo o cartão vermelho. Sua atitude demonstrou coragem, inteligência tática e a disposição de se sacrificar pelo time. Discreto, mas essencial, De Angelis consolidou-se como um jogador de confiança e vital para a solidez defensiva da equipe.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 5,
+      "jogos": "36",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Morgan Abbott",
+    "posicao": "Lateral Esquerdo",
+    "numero": 14,
+    "idade": 25,
+    "overall": 70,
+    "foto": "",
+    "descricao": "Lateral reserva que nunca chegou a atuar pelo time principal.",
+    "desempenho": "Não chegou a ser relacionado para partidas oficiais durante a temporada.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "0",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Samuel Viera",
+    "posicao": "Lateral Esquerdo",
+    "numero": 20,
+    "idade": 18,
+    "overall": 67,
+    "foto": "",
+    "descricao": "Vieira é um jovem lateral-esquerdo promovido recentemente das categorias de base do Palmeiras, visto como uma das grandes apostas do clube para o futuro. Com uma formação sólida e muita personalidade, ele se destaca pela segurança defensiva, boa leitura de jogo, capacidade de antecipação e apoio ao ataque. Mesmo nos primeiros jogos como profissional, Vieira já mostrou maturidade em situações de alta pressão, chamando a atenção da comissão técnica. De estilo sereno e determinado, é reconhecido pela inteligência tática e pela confiança com que encara desafios, características que o consolidam como uma promessa confiável para a equipe principal.",
+    "desempenho": "Vieira estreou pelo time principal do Palmeiras na vitória sobre o Brighton, entrando nos minutos finais da partida. Apesar do pouco tempo em campo, demonstrou segurança defensiva, boa postura tática e maturidade, chamando a atenção da comissão técnica. Em sua temporada de estreia, disputou 8 partidas, focado em garantir a posse de bola e a consistência defensiva. Mesmo sem registrar gols ou assistências, cumpriu seu papel de forma eficiente, mostrando potencial para crescer e se firmar no elenco principal nas próximas temporadas.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "8",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Vitor Reis",
+    "posicao": "Zagueiro",
+    "numero": 19,
+    "idade": 19,
+    "overall": 73,
+    "foto": "",
+    "descricao": "Vitor Reis é um jovem zagueiro do Palmeiras que vem ganhando espaço na equipe principal ao longo da temporada 2024/25 da Premier League. Promovido das categorias de base, ele se destaca pela postura segura na defesa, pelo bom senso de posicionamento e pela leitura de jogo acima da média para sua idade. Com apenas 18 anos, Vitor foi integrado ao elenco profissional em meio a uma temporada desafiadora para o setor defensivo do Verdão, e rapidamente demonstrou maturidade e disciplina tática sempre que acionado. Conhecido por sua força física, boa impulsão e personalidade marcante, Vitor Reis também exibe qualidades de liderança que o acompanham desde as categorias de base, onde foi capitão em diversas equipes juvenis do clube e da Seleção Brasileira Sub-17. Sua presença em campo chamou a atenção de técnicos e observadores: Pep Guardiola, técnico do Manchester City, elogiou sua 'personalidade enorme' e maturidade mesmo com tão pouca idade. Reconhecido internacionalmente, Vitor foi citado pela revista britânica World Soccer como 'um zagueiro com muita personalidade, que junta classe, liderança e habilidades de leitura de jogo e movimentação', sendo apontado como um dos 50 jovens mais talentosos do futebol mundial. Desde sua formação na R10 Academy até sua ascensão meteórica no Palmeiras, Vitor Reis tem demonstrado comprometimento, humildade e determinação, sendo visto como um dos pilares do futuro da defesa alviverde.",
+    "desempenho": "Desde sua promoção ao elenco profissional, Vitor Reis mostrou uma evolução rápida em seu desempenho, consolidando-se como uma das promessas da zaga do Palmeiras. Conhecido por sua postura segura e senso de posicionamento, foi elogiado pela solidez defensiva e maturidade em campo, especialmente em jogos importantes como no empate contra o West Ham e na vitória sobre o Brentford. Durante a temporada, participou de 20 jogos, sendo peça fundamental principalmente na reta final, quando o técnico apostou na renovação da defesa. Apesar de não ter marcado gols ou distribuído assistências, seu trabalho foi crucial na contenção de ataques adversários, com atuações de destaque em partidas tensas, como nos empates contra West Ham e Leicester City. Apesar de ter cometido erros pontuais, como em lances de pênalti em momentos críticos da temporada, sua trajetória é marcada por crescimento e amadurecimento contínuo. Com boas atuações também diante do Everton e do Wolverhampton, Vitor Reis ganhou a confiança da comissão técnica e se firmou como uma aposta sólida para o futuro do Verdão.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "20",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Dele Hassan",
+    "posicao": "Zagueiro",
+    "numero": 3,
+    "idade": 28,
+    "overall": 80,
+    "foto": "",
+    "descricao": "Hassan é um jovem zagueiro do Palmeiras que integrou o elenco durante a temporada 2024/25 da Premier League. Conhecido por sua força física, presença aérea e entrega em campo, ele foi acionado principalmente como opção defensiva em momentos de rodízio ou necessidade de mudanças táticas. Apesar de demonstrar potencial em algumas partidas, Hassan ainda enfrenta desafios para se firmar como titular absoluto, sendo alvo de críticas por falhas de posicionamento e insegurança em momentos decisivos. Sua trajetória na equipe é marcada por altos e baixos, alternando boas atuações com lapsos importantes. Recentemente, teve seu contrato renovado, recebendo um voto de confiança da diretoria — decisão que gerou controvérsia entre os torcedores, que esperam uma evolução mais consistente do jovem defensor para justificar sua permanência no elenco.",
+    "desempenho": "Hassan, zagueiro do Palmeiras, viveu uma temporada 2024/25 marcada por altos e baixos. Aos 28 anos, sua falta de consistência preocupa: mesmo com boa capacidade física e disposição em campo, ele ainda comete erros básicos de marcação e posicionamento que já não são aceitáveis para um jogador experiente. Em 22 partidas na temporada, Hassan teve momentos de destaque pontual — como quando foi eleito 'Melhor em Campo' contra o Leicester no primeiro turno —, mas as falhas pesaram muito mais, especialmente em derrotas dolorosas como a sofrida contra o Newcastle e no empate frustrante com o próprio Leicester. A torcida, bastante insatisfeita, já vê Hassan como um dos principais símbolos da instabilidade defensiva da equipe, e sua permanência no elenco para a próxima temporada é bastante questionada. Salvo uma reviravolta em seu desempenho, Hassan deve ser uma das peças a deixar o Verdão no próximo ciclo.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "0",
+      "craqueDoJogo": 1
+    }
+  },
+  {
+    "nome": "Declan Rodgers",
+    "posicao": "Zagueiro",
+    "numero": 4,
+    "idade": 25,
+    "overall": 81,
+    "foto": "",
+    "descricao": "Rodgers é um zagueiro do Palmeiras que ganhou espaço no elenco durante a temporada 2024/25 da Premier League. Atuando em 30 partidas, ele se destacou pela presença em campo, entrega tática e participação ofensiva em momentos pontuais — como no golaço de bicicleta contra o Manchester United. Reconhecido inicialmente pela personalidade e pela segurança que transmitia em algumas atuações, Rodgers foi peça importante na composição defensiva do time, especialmente em fases de fortalecimento da equipe. No entanto, sua trajetória também foi marcada por irregularidade, dividindo opiniões da torcida. Nas partidas mais decisivas da temporada, sua performance defensiva foi bastante questionada, com falhas que comprometeram o desempenho do setor. Embora tenha sido constante na equipe sua inconsistência em momentos críticos acabou gerando críticas ao longo da campanha.",
+    "desempenho": "O desempenho de Rodgers ao longo da temporada foi inconsistente. Apesar de boas atuações em momentos isolados — incluindo presença em seleções da semana e contribuições importantes no ataque, como dois gols marcados —, o zagueiro também acumulou falhas graves na defesa, sendo apontado como um dos responsáveis pelo alto número de gols sofridos pelo Palmeiras. Sua renovação de contrato gerou forte controvérsia entre os torcedores, que consideram que Rodgers ainda não se firmou como um defensor confiável para o alto nível exigido pela Premier League. Rodgers disputou 30 jogos, marcou 2 gols e teve participação sólida, mesmo sem assistências. Embora não tenha acumulado prêmios, seu desempenho foi essencial em algumas partidas equilibradas. Atuando de forma segura em determinados momentos, especialmente no setor defensivo, ele contribuiu para dar estabilidade ao time, mas acabou ficando em segundo plano em termos de protagonismo e carregando a desconfiança de parte da torcida devido às oscilações e erros decisivos.",
+    "estatisticas": {
+      "gols": 2,
+      "assistencias": 0,
+      "jogos": "30",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Jorgé Pereira",
+    "posicao": "Zagueiro",
+    "numero": 6,
+    "idade": 18,
+    "overall": 70,
+    "foto": "",
+    "descricao": "Promessa da base, visto como o futuro titular da zaga palmeirense.",
+    "desempenho": "Promovido da base nesta temporada, ainda não estreou, mas é tratado internamente como grande esperança para o futuro.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "0",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "David Buthelezi",
+    "posicao": "Zagueiro",
+    "numero": 27,
+    "idade": 17,
+    "overall": 65,
+    "foto": "",
+    "descricao": "Promessa da base, visto como o futuro titular da zaga palmeirense.",
+    "desempenho": "Promovido da base nesta temporada, ainda não estreou, mas é tratado internamente como grande esperança para o futuro.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "0",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Gustavo Garcia",
+    "posicao": "Lateral Direito",
+    "numero": 18,
+    "idade": 23,
+    "overall": 72,
+    "foto": "",
+    "descricao": "Garcia é um jovem lateral-direito revelado pelas categorias de base do Palmeiras. Integrado ao elenco principal durante a Premier League 2024/25, destacou-se pela firmeza na marcação, capacidade de recuperação defensiva e disposição física. Mesmo com pouca idade e experiência limitada, mostrou personalidade em momentos decisivos da temporada, ganhando a confiança da comissão técnica, especialmente em partidas de alta pressão. Apesar de algumas oscilações naturais para a idade, Garcia é visto como uma promessa importante para o futuro do sistema defensivo alviverde, com potencial para se firmar como titular nos próximos anos.",
+    "desempenho": "Garcia disputou 10 jogos pelo Palmeiras na temporada 2024/25. Mesmo sem registrar gols ou assistências, teve atuações seguras quando acionado, especialmente em partidas em que o time precisou de maior solidez defensiva. Sua contribuição foi discreta, mas confiável, reforçando o potencial para se firmar no elenco principal nas próximas temporadas. Entre seus destaques, Garcia impressionou na vitória contra o Brentford, com firmeza na marcação e roubadas de bola. No entanto, sofreu um revés ao falhar em dois lances decisivos no empate contra o Leicester, quando atuou lesionado. Apesar disso, sua trajetória mostra evolução e aponta para um futuro promissor na defesa alviverde.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "10",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Anas Kristensen",
+    "posicao": "Lateral Direito",
+    "numero": 2,
+    "idade": 24,
+    "overall": 78,
+    "foto": "",
+    "descricao": "Kristensen é um lateral-direito do Palmeiras conhecido por sua entrega física em campo, mas que também enfrenta muitas críticas da torcida e da comissão técnica. Embora tenha momentos pontuais de contribuição ofensiva — como a assistência no jogo contra o Chelsea —, sua irregularidade, principalmente na defesa, faz dele um dos jogadores mais questionados do elenco. Com dificuldades de posicionamento e queda de rendimento em jogos decisivos, Kristensen ainda busca estabilidade e confiança para se firmar de vez como peça importante da equipe.",
+    "desempenho": "contribuído com 3 assistências, sua maioria de atuações foi marcada por falhas defensivas e falta de consistência. Embora tenha mostrado utilidade no apoio ao ataque em alguns momentos — como na assistência precisa para Endrick contra o Chelsea —, sua má fase ficou evidente em jogos importantes, sendo apontado como um dos pontos fracos da equipe. Mesmo sem marcar gols ou conquistar prêmios de melhor em campo, Kristensen teve presença constante no time e foi peça importante para a estrutura tática, especialmente nas transições defensivas. No entanto, seus erros de marcação e a irregularidade de suas atuações comprometeram sua avaliação geral na temporada.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 3,
+      "jogos": "30",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Jamie Mahon",
+    "posicao": "Lateral Direito",
+    "numero": 15,
+    "idade": 29,
+    "overall": 73,
+    "foto": "",
+    "descricao": "Lateral reserva que nunca chegou a atuar pelo time principal.",
+    "desempenho": "Não chegou a ser relacionado para partidas oficiais durante a temporada.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "0",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Frederick Marks",
+    "posicao": "Volante",
+    "numero": 7,
+    "idade": 26,
+    "overall": 76,
+    "foto": "",
+    "descricao": "Marks é um volante que também atua como zagueiro improvisado no Palmeiras. Sem grande brilho técnico ou impacto direto nos jogos, ficou marcado como aquele jogador 'quebra-galho' essencial para compor o elenco durante a temporada. Com uma postura discreta, Marks se destacou mais pela disponibilidade e pela capacidade de 'tapar buraco' em momentos de necessidade do que por atuações memoráveis. Não é dos mais talentosos, mas foi útil — o típico jogador que todo time precisa para segurar as pontas quando os titulares estão indisponíveis.",
+    "desempenho": "Ao longo da temporada, Marks disputou cerca de 18 partidas e teve atuações medianas, sem comprometer, mas também sem encantar. Alternou entre volante e zagueiro conforme as necessidades do técnico, sempre com muita entrega, mesmo que com limitações técnicas evidentes. Em um elenco jovem e em reconstrução, sua função de 'tapa-buraco' foi importante, especialmente em jogos onde a defesa precisou de reforços improvisados. Apesar de uma chance clara desperdiçada contra o Arsenal (que ficou marcada), Marks cumpriu seu papel de forma honesta — foi aquele soldado silencioso que, sem ser protagonista, ajudou a temporada a não desandar em momentos de crise.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "18",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Daniel Beltrán",
+    "posicao": "Volante",
+    "numero": 0,
+    "idade": 18,
+    "overall": 58,
+    "foto": "",
+    "descricao": "Volante espanhol de 18 anos que foi emprestado ao Colchester no começo da temporada.",
+    "desempenho": "Sem dados disponíveis.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "0",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Danilo",
+    "posicao": "Meio Campista",
+    "numero": 28,
+    "idade": 24,
+    "overall": 79,
+    "foto": "",
+    "descricao": "Danilo é um meio-campista do Palmeiras que se destacou na temporada 2024/25 pela sua inteligência tática, capacidade de marcação e qualidade na construção de jogadas. Originalmente volante, Danilo evoluiu para atuar como meio-campista central (MC), ampliando sua influência tanto na defesa quanto na criação ofensiva. Atuando como motor do meio-campo, demonstrou consistência na marcação e na transição ofensiva, sendo fundamental para o equilíbrio do time em jogos decisivos. Mesmo sem grande destaque em gols ou assistências, sua participação silenciosa foi essencial para dar fluidez, sustentação e estabilidade às ações da equipe. Seu entendimento de jogo e a capacidade de fazer o time fluir entre defesa e ataque o tornaram uma peça-chave na engrenagem alviverde.",
+    "desempenho": "Durante a temporada, Danilo teve atuações sólidas e acumulou 1 gol e 6 assistências em 41 partidas somadas entre Premier League, Copa da Inglaterra e Carabao Cup. Apesar de não ter sido eleito Melhor em Campo, ele foi reconhecido ao ser incluído duas vezes na 'Seleção da Semana' da Premier League, reforçando sua importância coletiva. Sua presença em campo foi marcada pela regularidade, proteção à defesa e qualidade nos passes, com participações importantes em vitórias, como o gol anotado na Carabao Cup contra o Lincoln. Mesmo sem números expressivos, Danilo mostrou que seu impacto vai muito além das estatísticas visíveis, sendo um jogador de confiança e peça fundamental no sistema do Verdão.",
+    "estatisticas": {
+      "gols": 1,
+      "assistencias": 6,
+      "jogos": "41",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Evan Maloney",
+    "posicao": "Meio Campista",
+    "numero": 13,
+    "idade": 27,
+    "overall": 80,
+    "foto": "",
+    "descricao": "Maloney é um meio-campista versátil do elenco do Palmeiras, conhecido por sua consistência tática, movimentação inteligente e participação ativa no setor ofensivo. Atuando como peça de ligação entre meio-campo e ataque, ele se destaca pela capacidade de se posicionar bem, criar espaços e contribuir para a fluidez do jogo. Mesmo sem ser um dos protagonistas ou ter números expressivos em gols ou assistências, sua presença constante e eficiência silenciosa tornaram-no uma peça importante para o equilíbrio da equipe, tanto na Premier League quanto nas copas nacionais. Sua entrega em campo foi fundamental para ser reconhecido e incluído na Seleção da Semana.",
+    "desempenho": "Na temporada 2024/25, Maloney participou de 37 partidas oficiais pelo Palmeiras, somando atuações na Premier League, Carabao Cup e Copa da Inglaterra. Embora não tenha sido um dos principais protagonistas em gols, ele contribuiu com 1 gol e 3 assistências, sempre com atuações sólidas no meio-campo. Sua função foi mais voltada para o suporte e a organização ofensiva do time do que para o brilho individual, ajudando a manter o ritmo da equipe em momentos decisivos. Durante o campeonato, Maloney foi destaque ao ser escolhido para a Seleção da Semana após uma rodada de boas atuações, graças à sua movimentação dinâmica, inteligência tática e participação ativa nas jogadas de perigo. Apesar de não ter sido eleito Craque do Jogo em nenhuma partida, seu desempenho consistente e o entendimento coletivo reforçaram seu valor no elenco, mostrando seu potencial de crescimento para as próximas temporadas.",
+    "estatisticas": {
+      "gols": 1,
+      "assistencias": 3,
+      "jogos": "37",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Arnaud Aubert",
+    "posicao": "Meio Campista",
+    "numero": 17,
+    "idade": 18,
+    "overall": 72,
+    "foto": "",
+    "descricao": "Aubert é um jovem meio campista do Palmeiras que vem ganhando espaço gradualmente na equipe principal. Mesmo com pouco tempo em campo, já demonstrou ser decisivo, sendo responsável por garantir uma vitória nos acréscimos em sua primeira oportunidade de destaque. Atuando com movimentação inteligente na área e grande senso de oportunidade, Aubert mostra personalidade e vontade de buscar o gol sempre que é acionado. Embora ainda esteja em processo de amadurecimento técnico e tático, seu desempenho vindo do banco de reservas evidencia que pode se firmar como uma peça importante no elenco e ser uma aposta promissora para o futuro do Verdão.",
+    "desempenho": "Aubert estreou de forma marcante pelo Palmeiras, entrando nos minutos finais e garantindo a vitória em uma partida equilibrada. Mesmo com pouco tempo em campo, mostrou poder de decisão e frieza, características valiosas para quem busca espaço em um elenco competitivo. Durante a temporada, participou de 18 partidas, marcando 2 gols. Apesar de ainda não ter registrado assistências nem ter sido eleito Craque do Jogo, sua contribuição foi pontual, especialmente em momentos decisivos. Seu aproveitamento em situações ofensivas mostra potencial para evoluir com mais minutos em campo, e sua participação direta em um resultado positivo logo na estreia indica um futuro promissor. Aubert tem correspondido bem às expectativas para um jovem em processo de adaptação ao alto nível competitivo da Premier League.",
+    "estatisticas": {
+      "gols": 2,
+      "assistencias": 0,
+      "jogos": "18",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Luis Guilherme",
+    "posicao": "Meia Atacante",
+    "numero": 26,
+    "idade": 19,
+    "overall": 74,
+    "foto": "",
+    "descricao": "Luis Guilherme é um jovem meia-atacante do Palmeiras. Conhecido por sua capacidade técnica, velocidade nas transições e qualidade no passe, ele também se destaca pela inteligência tática, controle refinado da bola e maturidade em campo, mesmo com poucos jogos como titular. Sua movimentação dinâmica, visão de jogo e bom aproveitamento em assistências o tornam uma peça valiosa na construção ofensiva, além de ser um jogador versátil, capaz de atuar em diferentes posições do meio para frente. Com personalidade, capacidade de infiltração e finalização precisa, Luis Guilherme já conquistou a confiança da comissão técnica e da torcida, sendo decisivo principalmente em partidas equilibradas, onde sua habilidade de criar e definir jogadas faz a diferença.",
+    "desempenho": "Durante a temporada 2024/25, Luis Guilherme se destacou em momentos decisivos para o Palmeiras. Inicialmente visto como um ponta, o jogador mostrou grande adaptação ao atuar também como meia centralizado, especialmente após a lesão de Raphael Veiga. Sua personalidade ficou evidente em partidas importantes, como na vitória contra o Brighton, onde marcou um gol e foi eleito o Melhor em Campo. Além disso, demonstrou eficiência ao entrar em jogos complicados e definir resultados, mostrando maturidade e qualidade na construção de jogadas. Sua evolução no apoio ofensivo e versatilidade em campo evidenciam um futuro brilhante no futebol.",
+    "estatisticas": {
+      "gols": 3,
+      "assistencias": 3,
+      "jogos": "24",
+      "craqueDoJogo": 1
+    }
+  },
+  {
+    "nome": "Raphael Veiga",
+    "posicao": "Meia Atacante",
+    "numero": 8,
+    "idade": 22,
+    "overall": 86,
+    "foto": "",
+    "descricao": "Raphael Veiga se consolidou como o maestro do meio-campo do Palmeiras durante a temporada 2024/25. Reconhecido pela sua inteligência tática, visão de jogo, qualidade no passe e precisão nas finalizações, o camisa 8 foi a engrenagem principal da criação ofensiva da equipe. Mesmo em jogos difíceis, manteve a regularidade, sendo decisivo tanto com gols quanto com assistências, e alternando entre o papel de articulador e finalizador. Além da técnica apurada, seu comprometimento e liderança silenciosa dentro de campo chamaram a atenção, fazendo dele uma referência para os companheiros e peça-chave no equilíbrio e na campanha do Verdão.",
+    "desempenho": "Ao longo da temporada, Raphael Veiga teve atuações decisivas para o Palmeiras. Ele disputou 35 partidas, marcou 11 gols, distribuiu 21 assistências e foi eleito Melhor em Campo 6 vezes. Seu destaque foi visível em momentos importantes, liderando o ranking de assistências da Premier League por boa parte da competição e comandando vitórias históricas com sua capacidade de decisão e frieza. Em jogos grandes ou confrontos equilibrados, Veiga sempre aparecia — seja com um passe cirúrgico, um gol de falta ou uma movimentação inteligente que quebrava defesas adversárias. Seu desempenho sólido foi fundamental para manter o Palmeiras competitivo até o fim da temporada, especialmente em jogos decisivos da Premier League e da Copa da Inglaterra, onde mostrou sua importância tanto na criação quanto na finalização de jogadas.",
+    "estatisticas": {
+      "gols": 11,
+      "assistencias": 21,
+      "jogos": "35",
+      "craqueDoJogo": 6
+    }
+  },
+  {
+    "nome": "Vicente Castro",
+    "posicao": "Meia Atacante",
+    "numero": 18,
+    "idade": 29,
+    "overall": 73,
+    "foto": "",
+    "descricao": "Meia Atacante que nunca chegou a atuar pelo time principal.",
+    "desempenho": "Não chegou a ser relacionado para partidas oficiais durante a temporada.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "0",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Zorán Papp",
+    "posicao": "Meia Atacante",
+    "numero": 0,
+    "idade": 19,
+    "overall": 61,
+    "foto": "",
+    "descricao": "Meia Atancate Hungaro de 19 anos que foi emprestado ao Dep. Riestra no começo da temporada.",
+    "desempenho": "Sem dados disponíveis.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "0",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "Victor Laurent",
+    "posicao": "Meia Direita",
+    "numero": 0,
+    "idade": 20,
+    "overall": 68,
+    "foto": "",
+    "descricao": "Meia Direita Alemão de 20 anos que foi emprestado ao UD Almeria no começo da temporada.",
+    "desempenho": "Sem dados disponíveis.",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "0",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": " Kevin",
+    "posicao": "Ponta Esquerda",
+    "numero": 25,
+    "idade": 22,
+    "overall": 79,
+    "foto": "",
+    "descricao": "Kevin é um atacante de velocidade, inteligência e forte presença ofensiva, sendo peça-chave na armação e finalização das jogadas do Palmeiras. Ao longo da temporada 2024/25, mostrou-se extremamente participativo tanto em gols quanto em assistências, com grande influência nos momentos decisivos. Com muita mobilidade, qualidade técnica e faro de gol, Kevin se firmou no elenco principal atuando de forma versátil, tanto como ponta quanto como segundo atacante. Mesmo em uma temporada com grandes estrelas como Endrick e Estevão, destacou-se como peça complementar fundamental no ataque, participando ativamente da construção das jogadas e sendo decisivo na criação de oportunidades para os companheiros. Reconhecido por sua coragem, maturidade e ambição, Kevin se consolida como uma jovem promessa do futebol, determinado a alcançar altos patamares no cenário internacional.",
+    "desempenho": "Kevin fez uma temporada sólida pelo Palmeiras, com participações decisivas nos três torneios que disputou: Premier League, Copa da Inglaterra e Carabao Cup. Em 40 partidas, o atacante anotou 13 gols, distribuiu 13 assistências e foi eleito Craque do Jogo em três ocasiões. Seu desempenho consistente, principalmente em jogos grandes, consolidou seu papel como um dos principais nomes da equipe no setor ofensivo. Kevin brilhou em momentos decisivos, como no empate contra o Nottingham Forest, quando marcou dois gols, e na goleada sobre o Bournemouth, contribuindo com um gol e uma assistência. Demonstrando eficiência tanto nas finalizações quanto na construção de jogadas, ele foi peça fundamental para manter o ritmo ofensivo do Verdão ao longo da temporada. Apesar de não ser o principal finalizador do time, sua regularidade e importância nas partidas-chave foram além dos números, reforçando sua evolução e protagonismo no elenco.",
+    "estatisticas": {
+      "gols": 13,
+      "assistencias": 13,
+      "jogos": "40",
+      "craqueDoJogo": 3
+    }
+  },
+  {
+    "nome": "Santiago Mancilla",
+    "posicao": "Ponta Esquerda",
+    "numero": 21,
+    "idade": 18,
+    "overall": 66,
+    "foto": "",
+    "descricao": "Mancilla é uma das grandes joias recentes da base do Palmeiras. Recém-promovido ao elenco principal, o ponta-esquerda rapidamente conquistou espaço com sua versatilidade, agilidade e boa visão de jogo. Mesmo em processo de adaptação entre os profissionais, ele mostrou personalidade e eficiência, participando diretamente de gols e assistências importantes em momentos de alta pressão. Sua chegada ofensiva e oportunismo fizeram dele uma peça valiosa na rotação do time, sendo visto como uma aposta sólida para o futuro do Verdão e uma grande promessa da nova geração de talentos do clube.",
+      "desempenho": "Apesar do curto período no time principal, Mancilla já demonstrou ser um jogador capaz de decidir partidas. Em sua estreia contra o Manchester United, marcou seu primeiro gol como profissional e, logo depois, brilhou novamente diante do Arsenal, entrando no segundo tempo e anotando o gol de empate em um jogo importante. Além disso, contribuiu com assistências em momentos decisivos, como na goleada contra o Everton. Mancilla teve uma evolução notável na temporada: em 15 jogos disputados, marcou 5 gols, deu 6 assistências e foi eleito 'Craque do Jogo' em uma ocasião. Sua capacidade de infiltração, qualidade nos passes e presença ofensiva fizeram dele um diferencial na reta final do campeonato, sendo responsável por pontos valiosos para o Palmeiras. Mesmo com pouco tempo de profissional, demonstrou maturidade e impacto imediato, provando que pode ser uma arma decisiva no elenco alviverde para as próximas temporadas.",
+    "estatisticas": {
+      "gols": 5,
+      "assistencias": 6,
+      "jogos": "15",
+      "craqueDoJogo": 1
+    }
+  },
+  {
+    "nome": "Estevão",
+    "posicao": "Ponta Direita",
+    "numero": 11,
+    "idade": 20,
+    "overall": 86,
+    "foto": "",
+    "descricao": "Estevão é um dos jogadores mais decisivos e criativos do Palmeiras. Atacante habilidoso e versátil, ele se destaca pela capacidade de quebrar linhas defensivas, criar jogadas individuais e oferecer assistências precisas aos companheiros. Com técnica refinada, velocidade, inteligência e grande visão de jogo, consolidou-se como titular absoluto do time. Dono de um futebol envolvente, Estevão é peça-chave tanto na construção quanto na finalização das jogadas, mostrando frieza nas decisões e personalidade em momentos decisivos. Mais do que um assistente de luxo, ele também demonstra faro de gol e protagonismo, sendo considerado uma das maiores joias reveladas pelo Palmeiras e um dos jogadores mais promissores da Premier League.",
+    "desempenho": "Durante a temporada 2024/2025, Estevão foi um dos grandes destaques do elenco do Palmeiras em todas as competições. Atuando com regularidade e evolução técnica, o jovem se tornou peça fundamental no esquema alviverde, participando diretamente de gols importantes e liderando o ranking de assistências da Premier League durante boa parte do campeonato. Seu entrosamento com Endrick, Kevin e Raphael Veiga foi um dos trunfos do ataque palmeirense, sendo decisivo especialmente na reta final da temporada, onde ajudou a garantir pontos cruciais para a equipe. Além de sua qualidade na criação ofensiva, Estevão mostrou personalidade nos grandes jogos, deixando sua marca como artilheiro em momentos-chave e conquistando prêmios de Melhor em Campo. Mesmo muito jovem, consolidou-se como o cérebro criativo do time e uma das maiores promessas do futebol europeu.",
+    "estatisticas": {
+      "gols": 16,
+      "assistencias": 24,
+      "jogos": "42",
+      "craqueDoJogo": 6
+    }
+  },
+  {
+    "nome": "Albert Richards",
+    "posicao": "Ponta Esquerda",
+    "numero": 9,
+    "idade": 29,
+    "overall": 77,
+    "foto": "",
+    "descricao": "Albert Richards é um atacante experiente de 29 anos que integra o elenco do Palmeiras na temporada 2024/25. Sem grande protagonismo, Richards é o típico jogador que nem fede nem cheira: cumpre sua função quando solicitado, mas dificilmente se destaca. Participou de poucos jogos, sendo mais utilizado em partidas de copas nacionais, como a Copa da Inglaterra, onde marcou um gol. Sua movimentação e presença ofensiva são corretas, mas sem grandes impactos. Serve como uma opção de rotação no elenco, ocupando espaço sem comprometer, mas também sem agregar nada fora do básico.",
+    "desempenho": "Apesar de ter tido poucas oportunidades na temporada, Richards conseguiu ao menos deixar seu nome registrado ao marcar um dos gols na goleada por 7 a 1 sobre o Bournemouth, pela Copa da Inglaterra. No geral, seu desempenho foi discreto: participou de 3 partidas oficiais, somando jogos na Premier League e na Copa da Inglaterra, com 1 gol marcado, nenhuma assistência e sem ser eleito craque do jogo em nenhuma ocasião. Richards é o típico jogador que não compromete, mas também passa despercebido — útil para completar elenco, mas sem grande impacto quando acionado.",
+    "estatisticas": {
+      "gols": 1,
+      "assistencias": 0,
+      "jogos": "3",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "",
+    "posicao": "",
+    "numero": 7,
+    "idade": 26,
+    "overall": 76,
+    "foto": "",
+    "descricao": "",
+    "desempenho": "",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "18",
+      "craqueDoJogo": 0
+    }
+  },
+  {
+    "nome": "",
+    "posicao": "",
+    "numero": 7,
+    "idade": 26,
+    "overall": 76,
+    "foto": "",
+    "descricao": "",
+    "desempenho": "",
+    "estatisticas": {
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": "18",
+      "craqueDoJogo": 0
+    }
+  },
+]

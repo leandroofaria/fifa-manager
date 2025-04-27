@@ -1,26 +1,94 @@
-[
+{ 
+  "nome": "Copa Da Inglaterra",
+  "jogos": [{
+    "data": "2025-01-11",
+    "adversario": "Bournemouth",
+    "casa": false,
+    "placar": "7-1",
+    "golsTime": ["Endrick (2x)", "Kevin (2x)", "Albert Richards", "Estevão", "Raphael Veiga"],
+    "assistenciasTime": ["Endrick", "Raphael Veiga (2x)", "De Angelis"],
+    "golsAdversario": ["Rogers"],
+    "craqueJogo": "Raphael Veiga",
+    "descricao": "Na estreia da Copa da Inglaterra, o Palmeiras aplicou uma goleada impressionante de 7 a 1 fora de casa contra o Bournemouth. Os quatro atacantes — Endrick, Kevin, Estevão e Veiga — tiveram atuações perfeitas, com destaque absoluto para Veiga, autor de um gol e duas assistências. A equipe dominou completamente a partida do início ao fim e mostrou força ofensiva e entrosamento acima da média."
+  },
+  {
+    "data": "2025-02-08",
+    "adversario": "Barrow",
+    "casa": true,
+    "placar": "5-2",
+    "golsTime": ["Endrick (2x)", "Estevão", "Kevin", "Rodgers"],
+    "assistenciasTime": ["Endrick", "Estevão", "Kevin"],
+    "golsAdversario": [],
+    "craqueJogo": "Endrick",
+    "descricao": "O Palmeiras goleou o Barrow por 5 a 2 em casa com grande atuação ofensiva. Endrick brilhou com dois gols e uma assistência, enquanto Estevão e Kevin contribuíram com um gol e uma assistência cada. Rodgers também marcou o seu. O time mostrou bom entrosamento no ataque, mas o zagueiro Vitor Reis ainda apresentou instabilidades defensivas."
+  },
+  {
+    "data": "2025-03-02",
+    "adversario": "Chelsea",
+    "casa": false,
+    "placar": "2-4 (prorrogação)",
+    "golsTime": ["Endrick (2x)"],
+    "assistenciasTime": ["Raphael Veiga", "Quinoñes"],
+    "golsAdversario": ["Autor 1", "Autor 2", "Autor 3", "Autor 4"],
+    "craqueJogo": "Endrick",
+    "descricao": "O Palmeiras foi eliminado da Copa da Inglaterra após perder por 4 a 2 para o Chelsea na prorrogação. Endrick marcou os dois gols da equipe, sendo o primeiro com assistência de Veiga e o segundo após passe de Quinoñes. O time sentiu o desgaste físico na prorrogação e sofreu dois gols decisivos. Vitor Reis foi um dos destaques na defesa, mas Rodgers e Hassan não acompanharam o ritmo. Agora o Verdão volta as atenções para a Premier League."
+  }],
+  "estatisticas": [
     {
-        "data": "2025-01-11",
-        "adversario": "Bournemouth",
-        "casa": false,
-        "placar": "7-1",
-        "golsTime": ["Endrick (2x)", "Kevin (2x)", "Albert Richards", "Estevão", "Raphael Veiga"],
-        "assistenciasTime": ["Endrick", "Raphael Veiga (2x)", "De Angelis"],
-        "golsAdversario": ["Rogers"],
-        "craqueJogo": "Raphael Veiga",
-        "descricao": "Na estreia da Copa da Inglaterra, o Palmeiras aplicou uma goleada impressionante de 7 a 1 fora de casa contra o Bournemouth. Os quatro atacantes — Endrick, Kevin, Estevão e Veiga — tiveram atuações perfeitas, com destaque absoluto para Veiga, autor de um gol e duas assistências. A equipe dominou completamente a partida do início ao fim e mostrou força ofensiva e entrosamento acima da média."
-      },
-      {
-        "data": "2025-02-08",
-        "adversario": "Barrow",
-        "casa": true,
-        "placar": "5-2",
-        "golsTime": ["Endrick (2x)", "Estevão", "Kevin", "Rodgers"],
-        "assistenciasTime": ["Endrick", "Estevão", "Kevin"],
-        "golsAdversario": [],
-        "craqueJogo": "Endrick",
-        "descricao": "O Palmeiras goleou o Barrow por 5 a 2 em casa com grande atuação ofensiva. Endrick brilhou com dois gols e uma assistência, enquanto Estevão e Kevin contribuíram com um gol e uma assistência cada. Rodgers também marcou o seu. O time mostrou bom entrosamento no ataque, mas o zagueiro Vitor Reis ainda apresentou instabilidades defensivas."
-      }
-      
-      
-]
+      "nome": "Endrick",
+      "gols": 6,
+      "assistencias": 2,
+      "jogos": 3,
+      "craqueDoJogo": 2
+    },
+    {
+      "nome": "Kevin",
+      "gols": 3,
+      "assistencias": 1,
+      "jogos": 3,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Albert Richards",
+      "gols": 1,
+      "assistencias": 0,
+      "jogos": 1,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Estevão",
+      "gols": 2,
+      "assistencias": 1,
+      "jogos": 2,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Raphael Veiga",
+      "gols": 1,
+      "assistencias": 3,
+      "jogos": 3,
+      "craqueDoJogo": 1
+    },
+    {
+      "nome": "De Angelis",
+      "gols": 0,
+      "assistencias": 1,
+      "jogos": 1,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Rodgers",
+      "gols": 1,
+      "assistencias": 0,
+      "jogos": 1,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Quinoñes",
+      "gols": 0,
+      "assistencias": 1,
+      "jogos": 1,
+      "craqueDoJogo": 0
+    }
+  ]
+}

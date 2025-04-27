@@ -8,7 +8,12 @@
       "placar": "0-4",
       "golsTime": [],
       "assistenciasTime": [],
-      "golsAdversario": ["Diogo Jota", "Diogo Jota", "Salah", "Declan Rodgers (GC)"],
+      "golsAdversario": [
+        "Diogo Jota",
+        "Diogo Jota",
+        "Salah",
+        "Declan Rodgers (GC)"
+      ],
       "craqueJogo": "Jota",
       "descricao": "Na estreia da temporada, o Palmeiras foi superado pelo Liverpool por 4 a 0 jogando em casa. A equipe visitante dominou as ações desde o início, com Diogo Jota sendo o grande destaque da partida — marcou dois gols e participou diretamente de outros dois lances decisivos. Salah também deixou o dele, e um gol contra de Declan Rodgers completou o placar. O Verdão teve uma atuação abaixo do esperado e saiu de campo sob críticas da torcida."
     },
@@ -55,7 +60,6 @@
       "golsAdversario": ["Onuachu"],
       "craqueJogo": "Onuachu",
       "descricao": "Palmeiras e Southampton empataram em 1 a 1 em um jogo cheio de tensão no Allianz. Endrick abriu o placar após boa jogada de Estevão, mas Onuachu se destacou com grande presença ofensiva, marcou o gol de empate e foi eleito o Melhor em Campo. A torcida alviverde ainda levou um susto nos minutos finais com uma chance clara desperdiçada pelos visitantes, que poderia ter mudado o rumo do jogo."
-
     },
     {
       "data": "2024-09-29",
@@ -210,8 +214,7 @@
       "golsAdversario": ["Cole Palmer (2x)", "Coman"],
       "craqueJogo": "Cole Palmer",
       "descricao": "O Palmeiras foi superado pelo Chelsea por 3 a 1 em Londres. Cole Palmer brilhou com dois gols e foi o grande nome da partida, enquanto Coman saiu do banco para marcar o terceiro. O Verdão descontou com Endrick, que finalizou após bela assistência de Kristensen. Apesar do gol, a atuação alviverde ficou abaixo do esperado, com Estevão apagado e a defesa sofrendo para conter o ataque adversário. O goleiro Ramos evitou uma derrota ainda mais elástica com boas defesas, mas a superioridade do Chelsea foi evidente do início ao fim."
-    }
-    ,
+    },
     {
       "data": "2025-01-04",
       "adversario": "Fulham",
@@ -244,7 +247,7 @@
       "golsAdversario": ["Haaland", "Phoden"],
       "craqueJogo": "Quinoñes",
       "descricao": "Em uma revanche eletrizante contra o Manchester City, o Palmeiras venceu por 3 a 2 no Allianz Parque. O City começou dominando e abriu o placar com Haaland. Veiga encontrou Endrick na entrada da área, que empatou com um chute colocado. No segundo tempo, o estreante Quinoñes entrou e virou o jogo em sua primeira finalização. Phoden empatou em seguida e o City voltou a dominar, mas nos acréscimos, Quinoñes aproveitou o rebote de um chute cara a cara e garantiu a vitória. Vitor Reis também estreou na zaga."
-    },    
+    },
     {
       "data": "2025-01-25",
       "adversario": "Liverpool",
@@ -267,37 +270,306 @@
       "craqueJogo": "Ramos",
       "descricao": "O Palmeiras venceu o Southampton por 1 a 0 em casa, em um jogo complicado e com forte presença do adversário no ataque. O gol solitário foi marcado por Estevão após assistência de Endrick, mas o destaque foi o goleiro Ramos, que fez defesas decisivas e ainda pegou um pênalti cobrado após falta cometida por Vitor Reis. A equipe teve domínio de posse, mas sofreu para converter esse controle em chances claras, levantando dúvidas sobre a nova proposta tática adotada."
     },
-    
     {
-      "data": "2024-12-26",
-      "adversario": "",
+      "data": "2025-02-15",
+      "adversario": "Aston Villa",
+      "casa": true,
+      "placar": "3-2",
+      "golsTime": ["Endrick (2x)", "Raphael Veiga"],
+      "assistenciasTime": ["Raphael Veiga", "Endrick", "Quinoñes"],
+      "golsAdversario": ["Watkins (2x)"],
+      "craqueJogo": "Endrick",
+      "descricao": "O Palmeiras venceu o Aston Villa por 3 a 2 em um confronto direto pelo G4 da Premier League. Após um primeiro tempo sem gols e de muita pressão do adversário, o Verdão reagiu no segundo tempo com golaços de Endrick e Veiga. Watkins empatou com dois gols seguidos já no fim, mas no último minuto Quinoñes cruzou para Endrick marcar o gol da vitória. A torcida explodiu no Allianz Parque."
+    },
+    {
+      "data": "2025-02-22",
+      "adversario": "Tottenham",
+      "casa": true,
+      "placar": "2-6",
+      "golsTime": ["Endrick (2x)"],
+      "assistenciasTime": ["Kevin"],
+      "golsAdversario": ["Grealish (3x)", "Solanke", "Bentancur", "Kulusevski"],
+      "craqueJogo": "Solanke",
+      "descricao": "O Palmeiras sofreu uma goleada vergonhosa em casa, sendo derrotado por 6 a 2 pelo Tottenham. A equipe começou com duas promessas nas laterais, que até demonstraram segurança no início, mas ao longo da partida se mostraram abaixo do nível exigido. Mesmo com substituições, a defesa seguiu desorganizada. Grealish marcou três vezes, enquanto Solanke, Bentancur e Kulusevski também balançaram as redes. Os dois gols do Verdão foram marcados por Endrick, com uma assistência de Kevin. A torcida saiu extremamente insatisfeita com a repetição da derrota para o mesmo adversário no campeonato."
+    },
+    {
+      "data": "2025-02-26",
+      "adversario": "Manchester United",
       "casa": false,
-      "placar": "",
-      "golsTime": [""],
-      "assistenciasTime": [""],
-      "golsAdversario": [""],
-      "craqueJogo": "",
-      "descricao": ""
+      "placar": "0-4",
+      "golsTime": ["Endrick", "Raphael Veiga (P)", "Mancilla", "Kevin"],
+      "assistenciasTime": ["Endrick (2x)", "Luis Guilherme"],
+      "golsAdversario": [],
+      "craqueJogo": "Endrick",
+      "descricao": "O Palmeiras venceu o Manchester United por 4 a 0 em Old Trafford com uma atuação dominante. Endrick foi o destaque da partida com um gol e duas assistências, além de sofrer o pênalti convertido por Veiga. Mancilla marcou seu primeiro gol como profissional, e Kevin fechou o placar após passe de Luis Guilherme. A defesa também teve atuação segura e o Verdão confirmou a superioridade nos dois turnos do campeonato."
+    },
+    {
+      "data": "2025-03-08",
+      "adversario": "Crystal Palace",
+      "casa": true,
+      "placar": "4-3",
+      "golsTime": ["Raphael Veiga (2x)", "Kevin", "Endrick"],
+      "assistenciasTime": ["Endrick", "Kristensen"],
+      "golsAdversario": ["Eze", "Mateta", "Olise"],
+      "craqueJogo": "Endrick",
+      "descricao": "O Crystal Palace começou melhor e abriu 2 a 0 com gols de Eze e Mateta. Raphael Veiga reagiu com dois gols — um de falta e outro de pênalti sofrido por Endrick —, empatando a partida. Em seguida, Endrick deu bela assistência para Kevin virar. Olise ainda deixou tudo igual no fim, mas Endrick apareceu de novo, recebeu cruzamento de Kristensen e garantiu a vitória suada por 4 a 3."
+    },
+    {
+      "data": "2025-03-10",
+      "adversario": "Nottingham Forest",
+      "casa": true,
+      "placar": "2-2",
+      "golsTime": ["Kevin (2x)"],
+      "assistenciasTime": ["Danilo", "Endrick"],
+      "golsAdversario": ["Richarlison", "Hudson-Odoi"],
+      "craqueJogo": "Kevin",
+      "descricao": "O Nottingham Forest abriu 2 a 0 com gols de Richarlison e Hudson-Odoi, mas o Palmeiras reagiu com dois gols de Kevin, um com assistência de Danilo e outro de Endrick. No último minuto, De Angelis evitou o terceiro gol com falta decisiva e foi expulso, garantindo o empate em 2 a 2."
+    },
+    {
+      "data": "2025-04-01",
+      "adversario": "Bournemouth",
+      "casa": true,
+      "placar": "5-0",
+      "golsTime": ["Endrick (3x)", "Kevin", "Rodgers"],
+      "assistenciasTime": ["Kevin", "Rafael Veiga", "Quinoñes"],
+      "golsAdversario": [],
+      "craqueJogo": "Endrick",
+      "descricao": "O Palmeiras dominou completamente o Bournemouth em casa e venceu por 5 a 0 com grande atuação coletiva. Endrick foi o destaque da partida com três gols, Kevin contribuiu com um gol e uma assistência, Veiga e Quinoñes também deram assistências, e Rodgers fechou a goleada. O Verdão repetiu a vitória do primeiro turno e reforça sua força ofensiva na reta final da temporada."
+    },
+    {
+      "data": "2025-04-13",
+      "adversario": "Chelsea",
+      "casa": false,
+      "placar": "5-2",
+      "golsTime": ["Mancilla", "Endrick (3x)", "Estevão"],
+      "assistenciasTime": ["De Angelis", "Mancilla", "Endrick", "Estevão"],
+      "golsAdversario": ["Mudryk", "Nkunku"],
+      "craqueJogo": "Endrick",
+      "descricao": "O Palmeiras aplicou uma goleada por 5 a 2 sobre o Chelsea fora de casa, em grande noite de Endrick, que marcou três vezes e deu uma assistência. Mancilla abriu o placar com assistência de De Angelis, e Estevão completou o placar após receber passe de Endrick. O Chelsea descontou em duas falhas do goleiro Ramos. Raphael Veiga foi expulso no segundo tempo e será desfalque na próxima rodada."
+    },
+    {
+      "data": "2025-04-18",
+      "adversario": "Arsenal",
+      "casa": true,
+      "placar": "2-2",
+      "golsTime": ["Estevão", "Mancilla"],
+      "assistenciasTime": ["Kristensen", "Estevão"],
+      "golsAdversario": ["Gabriel Jesus", "Odegaard"],
+      "craqueJogo": "Estevão",
+      "descricao": "O Arsenal abriu o placar com gols de Gabriel Jesus e Odegaard, colocando pressão sobre o Palmeiras. Estevão iniciou a reação com um gol após cruzamento de Kristensen. No segundo tempo, Mancilla, recém-saído do banco, empatou após uma assistência do Estevão. Endrick desperdiçou chances claras, incluindo uma nos minutos finais, e o jogo terminou empatado em 2 a 2."
+    },
+    {
+      "data": "2025-04-21",
+      "adversario": "Newcastle United",
+      "casa": false,
+      "placar": "1-2",
+      "golsTime": ["Endrick"],
+      "assistenciasTime": ["Estevão"],
+      "golsAdversario": ["Gordon", "Isak"],
+      "craqueJogo": "Anthony Gordon",
+      "descricao": "O Palmeiras abriu o placar cedo com Endrick após assistência de Estevão, mas foi totalmente pressionado durante o restante do jogo. Ramos salvou o time em 16 defesas, mas o Newcastle empatou aos 89 minutos e virou aos 92 após falha grosseira de Hassan. Com isso, o Verdão sofreu mais uma derrota e viu sua classificação para a Champions League ameaçada."
+    },
+    {
+      "data": "2025-05-02",
+      "adversario": "Everton",
+      "casa": false,
+      "placar": "4-1",
+      "golsTime": ["Endrick (4x)"],
+      "assistenciasTime": ["Estevão (2x)", "Mancilla (2x)"],
+      "golsAdversario": ["Calvert-Lewin"],
+      "craqueJogo": "Endrick",
+      "descricao": "O Palmeiras venceu o Everton fora de casa por 4 a 1 em atuação dominante. Após sair atrás no placar, o time virou com quatro gols de Endrick, duas assistências de Estevão e duas de Mancilla. A defesa, comandada por Vitor Reis e o jovem lateral-esquerdo da base, também se destacou. Uma vitória crucial para a sequência da temporada."
+    },
+    {
+      "data": "2025-05-08",
+      "adversario": "Brentford",
+      "casa": true,
+      "placar": "3-2",
+      "golsTime": ["Estevão (2x)", "Endrick"],
+      "assistenciasTime": ["Mancilla", "Endrick", "Raphael Veiga"],
+      "golsAdversario": ["Mbeumo", "Toney"],
+      "craqueJogo": "Estevão",
+      "descricao": "O Palmeiras venceu o Brentford em casa por 3 a 2 em uma partida equilibrada. Destaque para Estevão, que marcou dois gols, e Endrick, que também deixou o dele. Raphael Veiga teve boa atuação, acertando duas bolas na trave. O lateral Garcia, da base, foi seguro na defesa. O Verdão venceu o Brentford nos dois turnos da Premier League."
+    },
+    {
+      "data": "2025-05-11",
+      "adversario": "Leicester City",
+      "casa": false,
+      "placar": "4-4",
+      "golsTime": ["Endrick (2x)", "Mancilla", "Estevão"],
+      "assistenciasTime": ["Mancilla", "Endrick", "Estevão"],
+      "golsAdversario": ["Dewsbury-Hall", "Mavididi", "Vardy", "Justin"],
+      "craqueJogo": "Mavididi",
+      "descricao": "Em um empate decepcionante contra o já rebaixado Leicester City, o Palmeiras começou mal, sofrendo dois gols pela lateral. Apesar da reação ofensiva liderada por Endrick, Mancilla e Estevão, a defesa instável permitiu o empate final por 4 a 4. Garcia, que jogou lesionado, e falhas defensivas gerais marcaram negativamente a partida."
+    },
+    {
+      "data": "2025-05-15",
+      "adversario": "West Ham",
+      "casa": true,
+      "placar": "2-2",
+      "golsTime": ["Mancilla", "Endrick"],
+      "assistenciasTime": ["Endrick", "Estevão"],
+      "golsAdversario": ["Ferguson", "Bowen"],
+      "craqueJogo": "Ferguson",
+      "descricao": "O Palmeiras empatou em casa por 2 a 2 com o West Ham em um jogo equilibrado. Mancilla abriu o placar após passe de Endrick, que também marcou o segundo gol do Verdão com assistência de Estevão. Apesar de ter dominado em parte do jogo, o Palmeiras sofreu defensivamente e viu o adversário buscar o empate. O técnico aproveitou a partida para testar a zaga jovem, com Vitor Reis e Buthelezi, e Vitor Reis se destacou pela boa atuação. Ferguson, do West Ham, foi eleito o melhor em campo."
     }
-    
-    
-    
-    
-    
-    
-    
-
-    
   ],
   "estatisticas": [
+    {
+      "nome": "Endrick",
+      "gols": 49,
+      "assistencias": 12,
+      "jogos": 38,
+      "craqueDoJogo": 16
+    },
+    {
+      "nome": "Erling Haaland",
+      "gols": 25,
+      "assistencias": 0,
+      "jogos": 36,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Bukayo Saka",
+      "gols": 22,
+      "assistencias": 0,
+      "jogos": 38,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Jack Grealish",
+      "gols": 21,
+      "assistencias": 0,
+      "jogos": 38,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Diogo Jota",
+      "gols": 20,
+      "assistencias": 0,
+      "jogos": 38,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Raphael Veiga",
+      "gols": 9,
+      "assistencias": 15,
+      "jogos": 29,
+      "craqueDoJogo": 5
+    },
+    {
+      "nome": "Estevão",
+      "gols": 11,
+      "assistencias": 18,
+      "jogos": 37,
+      "craqueDoJogo": 6
+    },
+    {
+      "nome": "Kevin",
+      "gols": 9,
+      "assistencias": 8,
+      "jogos": 34,
+      "craqueDoJogo": 2
+    },
+    {
+      "nome": "Mancilla",
+      "gols": 5,
+      "assistencias": 6,
+      "jogos": 15,
+      "craqueDoJogo": 1
+    },
+    {
+      "nome": "Quinoñes",
+      "gols": 2,
+      "assistencias": 1,
+      "jogos": 10,
+      "craqueDoJogo": 1
+    },
+    {
+      "nome": "Rodgers",
+      "gols": 2,
+      "assistencias": 0,
+      "jogos": 30,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Luis Guilherme",
+      "gols": 1,
+      "assistencias": 3,
+      "jogos": 24,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Maloney",
+      "gols": 1,
+      "assistencias": 2,
+      "jogos": 36,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Kristensen",
+      "gols": 0,
+      "assistencias": 3,
+      "jogos": 30,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "De Angelis",
+      "gols": 0,
+      "assistencias": 5,
+      "jogos": 36,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Vitor Reis",
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": 20,
+      "craqueDoJogo": 0
+    },
     {
       "nome": "Ramos",
       "gols": 0,
       "assistencias": 0,
-      "jogos": 3,
-      "craqueDoJogo": 1,
-      "defesas": 0,
-      "golsSofridos": 7
+      "jogos": 38,
+      "craqueDoJogo": 3
+    },
+    {
+      "nome": "Hassan",
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": 22,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Vieira",
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": 4,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Garcia",
+      "gols": 0,
+      "assistencias": 0,
+      "jogos": 9,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Aubert",
+      "gols": 2,
+      "assistencias": 0,
+      "jogos": 18,
+      "craqueDoJogo": 0
+    },
+    {
+      "nome": "Danilo",
+      "gols": 0,
+      "assistencias": 5,
+      "jogos": 37,
+      "craqueDoJogo": 0
     }
+
   ]
+  
 }
